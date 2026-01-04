@@ -1,2 +1,2 @@
 # vocadal
-Daily Vocabulary learning website
+AI written Daily Vocabulary learning website
