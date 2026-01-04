@@ -1,0 +1,43 @@
+{
+  "month": "2026-01",
+  "days": {
+    "2026-01-01": {
+      "words": [
+        {
+          "word": "agnostic",
+          "pronunciation": "/æɡˈnɑːstɪk/",
+          "partOfSpeech": "adjective",
+          "definition": "not strongly committed to a belief or position",
+          "usage": "I'm pretty agnostic about which approach we take.",
+          "practice": {
+            "fillBlank": "I'm _____ about whether we should redesign it."
+          }
+        },
+        {
+          "word": "nuanced",
+          "pronunciation": "/ˈnuːɑːnst/",
+          "partOfSpeech": "adjective",
+          "definition": "having subtle complexity; not overly simple",
+          "usage": "It's a nuanced discussion, not a yes-or-no answer.",
+          "practice": {
+            "fillBlank": "The issue is more _____ than people think."
+          }
+        }
+      ]
+    },
+    "2026-01-02": {
+      "words": [
+        {
+          "word": "arbitrary",
+          "pronunciation": "/ˈɑːrbɪtreri/",
+          "partOfSpeech": "adjective",
+          "definition": "based on random choice rather than reason",
+          "usage": "The deadline felt pretty arbitrary.",
+          "practice": {
+            "fillBlank": "That rule seems kind of _____."
+          }
+        }
+      ]
+    }
+  }
+}
