@@ -1,1229 +1,1679 @@
-    {
-      "month": "2026-01",
-      "days": {
-        "2026-01-01": {
-          "words": [
-            {
-              "word": "agnostic",
-              "pronunciation": "/æɡˈnɑːstɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "not strongly committed to a belief or stance",
-              "usage": "I'm pretty agnostic about which approach we take.",
-              "practice": {
-                "fillBlank": "I'm _____ about whether we should redesign it."
-              }
+        {
+          "month": "2026-01",
+          "days": {
+            "2026-01-01": {
+              "words": [
+                {
+                  "word": "agnostic",
+                  "pronunciation": "/æɡˈnɑːstɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "not strongly committed to a belief or stance",
+                  "usage": "I'm pretty agnostic about which approach we take.",
+                  "practice": {
+                    "fillBlank": "I'm _____ about whether we should redesign it."
+                  }
+                },
+                {
+                  "word": "nuanced",
+                  "pronunciation": "/ˈnuːɑːnst/",
+                  "partOfSpeech": "adjective",
+                  "definition": "having subtle complexity",
+                  "usage": "It's a nuanced discussion.",
+                  "practice": {
+                    "fillBlank": "The issue is more _____ than it seems."
+                  }
+                },
+                {
+                  "word": "ambivalent",
+                  "pronunciation": "/æmˈbɪvələnt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "having mixed feelings or contradictory ideas",
+                  "usage": "She was ambivalent about moving to a new city.",
+                  "practice": {
+                    "fillBlank": "I'm _____ about accepting the offer."
+                  }
+                },
+                {
+                  "word": "pragmatic",
+                  "pronunciation": "/præɡˈmætɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "dealing with things sensibly and realistically",
+                  "usage": "We need a pragmatic solution to the problem.",
+                  "practice": {
+                    "fillBlank": "Let's take a _____ approach to this project."
+                  }
+                },
+                {
+                  "word": "lucid",
+                  "pronunciation": "/ˈluːsɪd/",
+                  "partOfSpeech": "adjective",
+                  "definition": "expressed clearly; easy to understand",
+                  "usage": "Her explanation was lucid and to the point.",
+                  "practice": {
+                    "fillBlank": "The professor's lecture was remarkably _____."
+                  }
+                }
+              ]
             },
-            {
-              "word": "nuanced",
-              "pronunciation": "/ˈnuːɑːnst/",
-              "partOfSpeech": "adjective",
-              "definition": "having subtle complexity",
-              "usage": "It's a nuanced discussion.",
-              "practice": {
-                "fillBlank": "The issue is more _____ than it seems."
-              }
+            "2026-01-02": {
+              "words": [
+                {
+                  "word": "arbitrary",
+                  "pronunciation": "/ˈɑːrbɪtrɛri/",
+                  "partOfSpeech": "adjective",
+                  "definition": "based on random choice or personal whim",
+                  "usage": "The deadline felt completely arbitrary.",
+                  "practice": {
+                    "fillBlank": "The rule seems totally _____."
+                  }
+                },
+                {
+                  "word": "candid",
+                  "pronunciation": "/ˈkændɪd/",
+                  "partOfSpeech": "adjective",
+                  "definition": "truthful and straightforward; frank",
+                  "usage": "She was candid about her experiences.",
+                  "practice": {
+                    "fillBlank": "He gave a _____ account of the events."
+                  }
+                },
+                {
+                  "word": "meticulous",
+                  "pronunciation": "/məˈtɪkjʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "showing great attention to detail",
+                  "usage": "He is meticulous when it comes to his notes.",
+                  "practice": {
+                    "fillBlank": "Her work is always _____ and precise."
+                  }
+                },
+                {
+                  "word": "resilient",
+                  "pronunciation": "/rɪˈzɪliənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "able to withstand or recover quickly from difficult conditions",
+                  "usage": "Children can be incredibly resilient.",
+                  "practice": {
+                    "fillBlank": "She remained _____ despite the setbacks."
+                  }
+                },
+                {
+                  "word": "conundrum",
+                  "pronunciation": "/kəˈnʌndrəm/",
+                  "partOfSpeech": "noun",
+                  "definition": "a confusing or difficult problem",
+                  "usage": "He faced a conundrum in choosing the right path.",
+                  "practice": {
+                    "fillBlank": "We encountered a tricky _____."
+                  }
+                }
+              ]
             },
-            {
-              "word": "ambivalent",
-              "pronunciation": "/æmˈbɪvələnt/",
-              "partOfSpeech": "adjective",
-              "definition": "having mixed feelings or contradictory ideas",
-              "usage": "She was ambivalent about moving to a new city.",
-              "practice": {
-                "fillBlank": "I'm _____ about accepting the offer."
-              }
+            "2026-01-03": {
+              "words": [
+                {
+                  "word": "ephemeral",
+                  "pronunciation": "/ɪˈfɛmərəl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "lasting for a very short time",
+                  "usage": "Fashions are ephemeral by nature.",
+                  "practice": {
+                    "fillBlank": "The beauty of the sunset was truly _____."
+                  }
+                },
+                {
+                  "word": "belligerent",
+                  "pronunciation": "/bəˈlɪdʒərənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "hostile and aggressive",
+                  "usage": "He became belligerent after the argument.",
+                  "practice": {
+                    "fillBlank": "The customer was rude and _____."
+                  }
+                },
+                {
+                  "word": "sagacious",
+                  "pronunciation": "/səˈɡeɪʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "having keen mental discernment and good judgment",
+                  "usage": "She offered sagacious advice on the investment.",
+                  "practice": {
+                    "fillBlank": "The mentor gave _____ guidance."
+                  }
+                },
+                {
+                  "word": "tenacious",
+                  "pronunciation": "/təˈneɪʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "tending to keep a firm hold; persistent",
+                  "usage": "His tenacious spirit helped him succeed.",
+                  "practice": {
+                    "fillBlank": "Despite obstacles, she remained _____."
+                  }
+                },
+                {
+                  "word": "ubiquitous",
+                  "pronunciation": "/juːˈbɪkwɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "present, appearing, or found everywhere",
+                  "usage": "Smartphones have become ubiquitous in daily life.",
+                  "practice": {
+                    "fillBlank": "The brand's logo is _____."
+                  }
+                }
+              ]
             },
-            {
-              "word": "pragmatic",
-              "pronunciation": "/præɡˈmætɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "dealing with things sensibly and realistically",
-              "usage": "We need a pragmatic solution to the problem.",
-              "practice": {
-                "fillBlank": "Let's take a _____ approach to this project."
-              }
+            "2026-01-04": {
+              "words": [
+                {
+                  "word": "obscure",
+                  "pronunciation": "/əbˈskjʊr/",
+                  "partOfSpeech": "adjective",
+                  "definition": "not clearly understood or expressed",
+                  "usage": "The poem's meaning was obscure to most readers.",
+                  "practice": {
+                    "fillBlank": "The instructions were _____ and confusing."
+                  }
+                },
+                {
+                  "word": "pristine",
+                  "pronunciation": "/ˈprɪstiːn/",
+                  "partOfSpeech": "adjective",
+                  "definition": "in its original condition; unspoiled",
+                  "usage": "The beach was pristine and untouched.",
+                  "practice": {
+                    "fillBlank": "The museum kept the artifacts in _____ condition."
+                  }
+                },
+                {
+                  "word": "altruistic",
+                  "pronunciation": "/ˌæltruːˈɪstɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "showing selfless concern for the well-being of others",
+                  "usage": "He is known for his altruistic acts.",
+                  "practice": {
+                    "fillBlank": "Her motives were purely _____."
+                  }
+                },
+                {
+                  "word": "lucid",
+                  "pronunciation": "/ˈluːsɪd/",
+                  "partOfSpeech": "adjective",
+                  "definition": "clear and easy to understand",
+                  "usage": "The explanation was lucid and precise.",
+                  "practice": {
+                    "fillBlank": "She gave a _____ account of the events."
+                  }
+                },
+                {
+                  "word": "vigilant",
+                  "pronunciation": "/ˈvɪdʒɪlənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "keeping careful watch for danger or difficulties",
+                  "usage": "The security team remained vigilant all night.",
+                  "practice": {
+                    "fillBlank": "Parents must be _____ about online content."
+                  }
+                }
+              ]
             },
-            {
-              "word": "lucid",
-              "pronunciation": "/ˈluːsɪd/",
-              "partOfSpeech": "adjective",
-              "definition": "expressed clearly; easy to understand",
-              "usage": "Her explanation was lucid and to the point.",
-              "practice": {
-                "fillBlank": "The professor's lecture was remarkably _____."
-              }
+            "2026-01-05": {
+              "words": [
+                {
+                  "word": "cogent",
+                  "pronunciation": "/ˈkoʊdʒənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "clear, logical, and convincing",
+                  "usage": "He made a cogent argument for change.",
+                  "practice": {
+                    "fillBlank": "Her presentation was clear and _____."
+                  }
+                },
+                {
+                  "word": "diligent",
+                  "pronunciation": "/ˈdɪlɪdʒənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "showing careful and persistent effort",
+                  "usage": "She is a diligent student.",
+                  "practice": {
+                    "fillBlank": "He worked _____ to complete the project."
+                  }
+                },
+                {
+                  "word": "equanimity",
+                  "pronunciation": "/ˌiːkwəˈnɪməti/",
+                  "partOfSpeech": "noun",
+                  "definition": "mental calmness, composure, and evenness of temper",
+                  "usage": "She faced the crisis with equanimity.",
+                  "practice": {
+                    "fillBlank": "He handled the criticism with remarkable _____."
+                  }
+                },
+                {
+                  "word": "fortuitous",
+                  "pronunciation": "/fɔːrˈtuːɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "happening by lucky chance",
+                  "usage": "It was a fortuitous coincidence.",
+                  "practice": {
+                    "fillBlank": "Their meeting was purely _____."
+                  }
+                },
+                {
+                  "word": "gregarious",
+                  "pronunciation": "/ɡrɪˈɡɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "fond of company; sociable",
+                  "usage": "He is a gregarious and friendly person.",
+                  "practice": {
+                    "fillBlank": "She is outgoing and _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-06": {
+              "words": [
+                {
+                  "word": "iconoclast",
+                  "pronunciation": "/aɪˈkɒnəklæst/",
+                  "partOfSpeech": "noun",
+                  "definition": "a person who attacks cherished beliefs or institutions",
+                  "usage": "He was an iconoclast in the art world.",
+                  "practice": {
+                    "fillBlank": "She is known as an ____ in her field."
+                  }
+                },
+                {
+                  "word": "jubilant",
+                  "pronunciation": "/ˈdʒuːbɪlənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "showing great joy, satisfaction, or triumph",
+                  "usage": "The team was jubilant after winning.",
+                  "practice": {
+                    "fillBlank": "The crowd was _____ after the victory."
+                  }
+                },
+                {
+                  "word": "kinetic",
+                  "pronunciation": "/kɪˈnɛtɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "relating to or resulting from motion",
+                  "usage": "The sculpture has a kinetic quality.",
+                  "practice": {
+                    "fillBlank": "The dancers created a _____ energy on stage."
+                  }
+                },
+                {
+                  "word": "lucid",
+                  "pronunciation": "/ˈluːsɪd/",
+                  "partOfSpeech": "adjective",
+                  "definition": "expressed clearly; easy to understand",
+                  "usage": "Her explanation was lucid and precise.",
+                  "practice": {
+                    "fillBlank": "His instructions were clear and _____."
+                  }
+                },
+                {
+                  "word": "mellifluous",
+                  "pronunciation": "/məˈlɪfluəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "sweet or musical; pleasant to hear",
+                  "usage": "She had a mellifluous voice.",
+                  "practice": {
+                    "fillBlank": "The speaker's voice was smooth and _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-07": {
+              "words": [
+                {
+                  "word": "nebulous",
+                  "pronunciation": "/ˈnebjʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "vague or ill-defined",
+                  "usage": "His plans were nebulous at best.",
+                  "practice": {
+                    "fillBlank": "The concept was too _____ to understand clearly."
+                  }
+                },
+                {
+                  "word": "obstinate",
+                  "pronunciation": "/ˈɑbstɪnət/",
+                  "partOfSpeech": "adjective",
+                  "definition": "stubbornly refusing to change one’s opinion",
+                  "usage": "She was obstinate about her decision.",
+                  "practice": {
+                    "fillBlank": "He remained _____ despite the advice."
+                  }
+                },
+                {
+                  "word": "paradox",
+                  "pronunciation": "/ˈpærədɑːks/",
+                  "partOfSpeech": "noun",
+                  "definition": "a seemingly self-contradictory statement",
+                  "usage": "Life is full of paradoxes.",
+                  "practice": {
+                    "fillBlank": "It’s a _____ that technology can connect yet isolate people."
+                  }
+                },
+                {
+                  "word": "quintessential",
+                  "pronunciation": "/ˌkwɪntɪˈsenʃəl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "representing the most perfect example of something",
+                  "usage": "She is the quintessential professional.",
+                  "practice": {
+                    "fillBlank": "This painting is the _____ example of Impressionism."
+                  }
+                },
+                {
+                  "word": "reverent",
+                  "pronunciation": "/ˈrevərənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "showing deep respect",
+                  "usage": "The students were reverent during the ceremony.",
+                  "practice": {
+                    "fillBlank": "The audience was _____ during the speech."
+                  }
+                }
+              ]
+            },
+            "2026-01-08": {
+              "words": [
+                {
+                  "word": "scrupulous",
+                  "pronunciation": "/ˈskruːpjʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "extremely attentive to details; principled",
+                  "usage": "He is scrupulous in his research.",
+                  "practice": {
+                    "fillBlank": "She was _____ in checking her work."
+                  }
+                },
+                {
+                  "word": "tenuous",
+                  "pronunciation": "/ˈtenjuəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "very weak or slight",
+                  "usage": "His grasp of the subject was tenuous.",
+                  "practice": {
+                    "fillBlank": "The connection between the ideas was _____."
+                  }
+                },
+                {
+                  "word": "ubiquitous",
+                  "pronunciation": "/juːˈbɪkwɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "found everywhere",
+                  "usage": "Smartphones are ubiquitous in modern society.",
+                  "practice": {
+                    "fillBlank": "The brand’s presence was _____."
+                  }
+                },
+                {
+                  "word": "vex",
+                  "pronunciation": "/vɛks/",
+                  "partOfSpeech": "verb",
+                  "definition": "to annoy or frustrate",
+                  "usage": "The constant delays vexed her.",
+                  "practice": {
+                    "fillBlank": "Traffic jams always _____ him."
+                  }
+                },
+                {
+                  "word": "wary",
+                  "pronunciation": "/ˈwɛri/",
+                  "partOfSpeech": "adjective",
+                  "definition": "cautious about possible dangers",
+                  "usage": "She was wary of making promises she couldn't keep.",
+                  "practice": {
+                    "fillBlank": "Be _____ when dealing with strangers."
+                  }
+                }
+              ]
+            },
+            "2026-01-09": {
+              "words": [
+                {
+                  "word": "xenophile",
+                  "pronunciation": "/ˈzenəfaɪl/",
+                  "partOfSpeech": "noun",
+                  "definition": "someone attracted to foreign people or cultures",
+                  "usage": "As a xenophile, he loved traveling.",
+                  "practice": {
+                    "fillBlank": "She is a true _____ who enjoys learning about other cultures."
+                  }
+                },
+                {
+                  "word": "yield",
+                  "pronunciation": "/jiːld/",
+                  "partOfSpeech": "verb",
+                  "definition": "to produce or provide",
+                  "usage": "The farm yields fresh vegetables every season.",
+                  "practice": {
+                    "fillBlank": "Hard work will eventually _____ results."
+                  }
+                },
+                {
+                  "word": "zealous",
+                  "pronunciation": "/ˈzɛləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "full of energy or enthusiasm in pursuit of a cause",
+                  "usage": "She is zealous about protecting the environment.",
+                  "practice": {
+                    "fillBlank": "He is a _____ supporter of the team."
+                  }
+                },
+                {
+                  "word": "ameliorate",
+                  "pronunciation": "/əˈmiːliəreɪt/",
+                  "partOfSpeech": "verb",
+                  "definition": "to make something better",
+                  "usage": "The new policies should ameliorate living conditions.",
+                  "practice": {
+                    "fillBlank": "They hoped to _____ the situation quickly."
+                  }
+                },
+                {
+                  "word": "bucolic",
+                  "pronunciation": "/bjuˈkɑːlɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "relating to the pleasant aspects of the countryside",
+                  "usage": "We stayed in a bucolic village.",
+                  "practice": {
+                    "fillBlank": "The scenery was peaceful and _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-10": {
+              "words": [
+                {
+                  "word": "capricious",
+                  "pronunciation": "/kəˈprɪʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "given to sudden changes of mood or behavior",
+                  "usage": "Her decisions were often capricious.",
+                  "practice": {
+                    "fillBlank": "The weather here is extremely _____."
+                  }
+                },
+                {
+                  "word": "deleterious",
+                  "pronunciation": "/ˌdɛlɪˈtɪriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "causing harm or damage",
+                  "usage": "Smoking is deleterious to health.",
+                  "practice": {
+                    "fillBlank": "Excessive stress can be _____ to your health."
+                  }
+                },
+                {
+                  "word": "effervescent",
+                  "pronunciation": "/ˌɛfərˈvɛsənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "bubbly, lively, or enthusiastic",
+                  "usage": "She has an effervescent personality.",
+                  "practice": {
+                    "fillBlank": "His mood was bright and _____."
+                  }
+                },
+                {
+                  "word": "fastidious",
+                  "pronunciation": "/fæˈstɪdiəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "very attentive to detail; hard to please",
+                  "usage": "He is fastidious about cleanliness.",
+                  "practice": {
+                    "fillBlank": "She is so _____ about her work."
+                  }
+                },
+                {
+                  "word": "gregarious",
+                  "pronunciation": "/ɡrɪˈɡɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "sociable, enjoys company",
+                  "usage": "He is a gregarious host.",
+                  "practice": {
+                    "fillBlank": "She is outgoing and _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-11": {
+              "words": [
+                {
+                  "word": "hubris",
+                  "pronunciation": "/ˈhjuːbrɪs/",
+                  "partOfSpeech": "noun",
+                  "definition": "excessive pride or self-confidence",
+                  "usage": "His hubris led to his downfall.",
+                  "practice": {
+                    "fillBlank": "Overconfidence often stems from _____."
+                  }
+                },
+                {
+                  "word": "idiosyncratic",
+                  "pronunciation": "/ˌɪdiəˈsɪŋkrətɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "peculiar to an individual",
+                  "usage": "His art style is highly idiosyncratic.",
+                  "practice": {
+                    "fillBlank": "She has an _____ way of organizing her desk."
+                  }
+                },
+                {
+                  "word": "juxtapose",
+                  "pronunciation": "/ˈdʒʌkstəpoʊz/",
+                  "partOfSpeech": "verb",
+                  "definition": "to place side by side for contrast",
+                  "usage": "The exhibit juxtaposes old and new art.",
+                  "practice": {
+                    "fillBlank": "The designer _____ modern and vintage styles."
+                  }
+                },
+                {
+                  "word": "keen",
+                  "pronunciation": "/kiːn/",
+                  "partOfSpeech": "adjective",
+                  "definition": "having sharp mental ability; eager",
+                  "usage": "She has a keen sense of observation.",
+                  "practice": {
+                    "fillBlank": "He is very _____ on details."
+                  }
+                },
+                {
+                  "word": "laconic",
+                  "pronunciation": "/ləˈkɑːnɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "using very few words",
+                  "usage": "His laconic reply surprised everyone.",
+                  "practice": {
+                    "fillBlank": "Her response was brief and _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-12": {
+              "words": [
+                {
+                  "word": "malleable",
+                  "pronunciation": "/ˈmæliəbəl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "capable of being shaped or influenced",
+                  "usage": "Young minds are malleable.",
+                  "practice": {
+                    "fillBlank": "Ideas are more _____ early in life."
+                  }
+                },
+                {
+                  "word": "nefarious",
+                  "pronunciation": "/nɪˈfɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "wicked or criminal",
+                  "usage": "The villain had a nefarious plan.",
+                  "practice": {
+                    "fillBlank": "The plot of the story was _____."
+                  }
+                },
+                {
+                  "word": "obsequious",
+                  "pronunciation": "/əbˈsiːkwɪəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "overly submissive or eager to please",
+                  "usage": "The assistant was obsequious to the manager.",
+                  "practice": {
+                    "fillBlank": "He acted in an _____ manner to gain favor."
+                  }
+                },
+                {
+                  "word": "panacea",
+                  "pronunciation": "/ˌpænəˈsiːə/",
+                  "partOfSpeech": "noun",
+                  "definition": "a solution for all problems",
+                  "usage": "There is no panacea for this issue.",
+                  "practice": {
+                    "fillBlank": "Unfortunately, technology is not a _____ for all challenges."
+                  }
+                },
+                {
+                  "word": "quixotic",
+                  "pronunciation": "/kwɪkˈsɒtɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "extremely idealistic; impractical",
+                  "usage": "His ideas were quixotic but inspiring.",
+                  "practice": {
+                    "fillBlank": "The plan was _____ but ambitious."
+                  }
+                }
+              ]
+            },
+            "2026-01-13": {
+              "words": [
+                {
+                  "word": "ravenous",
+                  "pronunciation": "/ˈrævənəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "extremely hungry",
+                  "usage": "After the hike, we were ravenous.",
+                  "practice": {
+                    "fillBlank": "He came home from school completely _____."
+                  }
+                },
+                {
+                  "word": "sanguine",
+                  "pronunciation": "/ˈsæŋɡwɪn/",
+                  "partOfSpeech": "adjective",
+                  "definition": "optimistic or positive, especially in a difficult situation",
+                  "usage": "She is sanguine about the company’s future.",
+                  "practice": {
+                    "fillBlank": "Despite setbacks, he remained _____."
+                  }
+                },
+                {
+                  "word": "taciturn",
+                  "pronunciation": "/ˈtæsɪtɜrn/",
+                  "partOfSpeech": "adjective",
+                  "definition": "reserved or uncommunicative",
+                  "usage": "He was a taciturn man, speaking little.",
+                  "practice": {
+                    "fillBlank": "She is usually quiet and _____."
+                  }
+                },
+                {
+                  "word": "unequivocal",
+                  "pronunciation": "/ˌʌnɪˈkwɪvəkəl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "leaving no doubt; clear",
+                  "usage": "His response was unequivocal.",
+                  "practice": {
+                    "fillBlank": "The instructions were clear and _____."
+                  }
+                },
+                {
+                  "word": "vicarious",
+                  "pronunciation": "/vɪˈkɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "experienced through another",
+                  "usage": "He gets vicarious pleasure from his students’ success.",
+                  "practice": {
+                    "fillBlank": "She lives _____ through her children’s achievements."
+                  }
+                }
+              ]
+            },
+            "2026-01-14": {
+              "words": [
+                {
+                  "word": "wily",
+                  "pronunciation": "/ˈwaɪli/",
+                  "partOfSpeech": "adjective",
+                  "definition": "skilled at gaining advantage, clever",
+                  "usage": "He is a wily negotiator.",
+                  "practice": {
+                    "fillBlank": "The fox was clever and _____."
+                  }
+                },
+                {
+                  "word": "xenial",
+                  "pronunciation": "/ˈziːniəl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "hospitable to strangers",
+                  "usage": "The host was very xenial.",
+                  "practice": {
+                    "fillBlank": "Their home is always warm and _____."
+                  }
+                },
+                {
+                  "word": "yokel",
+                  "pronunciation": "/ˈjoʊkəl/",
+                  "partOfSpeech": "noun",
+                  "definition": "a country bumpkin or unsophisticated person",
+                  "usage": "The play portrayed a simple yokel.",
+                  "practice": {
+                    "fillBlank": "He was treated like a naive _____."
+                  }
+                },
+                {
+                  "word": "zenith",
+                  "pronunciation": "/ˈziːnɪθ/",
+                  "partOfSpeech": "noun",
+                  "definition": "the highest point",
+                  "usage": "She reached the zenith of her career.",
+                  "practice": {
+                    "fillBlank": "He was at the _____ of his power."
+                  }
+                },
+                {
+                  "word": "alacrity",
+                  "pronunciation": "/əˈlækrɪti/",
+                  "partOfSpeech": "noun",
+                  "definition": "cheerful willingness",
+                  "usage": "She accepted the invitation with alacrity.",
+                  "practice": {
+                    "fillBlank": "He responded to the task with _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-15": {
+              "words": [
+                {
+                  "word": "belligerent",
+                  "pronunciation": "/bəˈlɪdʒərənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "hostile and aggressive",
+                  "usage": "The customer became belligerent.",
+                  "practice": {
+                    "fillBlank": "He was rude and _____."
+                  }
+                },
+                {
+                  "word": "cajole",
+                  "pronunciation": "/kəˈdʒoʊl/",
+                  "partOfSpeech": "verb",
+                  "definition": "to persuade with flattery or promises",
+                  "usage": "She tried to cajole him into attending.",
+                  "practice": {
+                    "fillBlank": "He was _____ into helping by compliments."
+                  }
+                },
+                {
+                  "word": "dormant",
+                  "pronunciation": "/ˈdɔːrmənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "temporarily inactive",
+                  "usage": "The volcano has been dormant for years.",
+                  "practice": {
+                    "fillBlank": "The company’s project remained _____."
+                  }
+                },
+                {
+                  "word": "emulate",
+                  "pronunciation": "/ˈɛmjʊleɪt/",
+                  "partOfSpeech": "verb",
+                  "definition": "to match or imitate",
+                  "usage": "She tried to emulate her mentor’s style.",
+                  "practice": {
+                    "fillBlank": "He hopes to _____ his hero’s success."
+                  }
+                },
+                {
+                  "word": "furtive",
+                  "pronunciation": "/ˈfɜːrtɪv/",
+                  "partOfSpeech": "adjective",
+                  "definition": "secretive; attempting to avoid notice",
+                  "usage": "He cast a furtive glance at the door.",
+                  "practice": {
+                    "fillBlank": "She gave a _____ look before leaving."
+                  }
+                }
+              ]
+            },
+            "2026-01-16": {
+              "words": [
+                {
+                  "word": "garrulous",
+                  "pronunciation": "/ˈɡærʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "excessively talkative",
+                  "usage": "He became garrulous after a few drinks.",
+                  "practice": {
+                    "fillBlank": "The neighbor is friendly but _____."
+                  }
+                },
+                {
+                  "word": "hapless",
+                  "pronunciation": "/ˈhæplɪs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "unlucky",
+                  "usage": "The hapless travelers missed their flight.",
+                  "practice": {
+                    "fillBlank": "The _____ hero couldn’t catch a break."
+                  }
+                },
+                {
+                  "word": "iconic",
+                  "pronunciation": "/aɪˈkɒnɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "widely recognized and well-established",
+                  "usage": "The building is an iconic landmark.",
+                  "practice": {
+                    "fillBlank": "The movie has an _____ scene everyone remembers."
+                  }
+                },
+                {
+                  "word": "juxtaposition",
+                  "pronunciation": "/ˌdʒʌkstəpəˈzɪʃən/",
+                  "partOfSpeech": "noun",
+                  "definition": "placing things side by side for contrast",
+                  "usage": "The painting uses juxtaposition effectively.",
+                  "practice": {
+                    "fillBlank": "The design relies on _____ of old and new styles."
+                  }
+                },
+                {
+                  "word": "kinetic",
+                  "pronunciation": "/kɪˈnɛtɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "relating to motion",
+                  "usage": "The sculpture has a kinetic energy.",
+                  "practice": {
+                    "fillBlank": "The dancers created a _____ performance."
+                  }
+                }
+              ]
+            },
+            "2026-01-17": {
+              "words": [
+                {
+                  "word": "lucid",
+                  "pronunciation": "/ˈluːsɪd/",
+                  "partOfSpeech": "adjective",
+                  "definition": "clear and easy to understand",
+                  "usage": "His explanation was lucid.",
+                  "practice": {
+                    "fillBlank": "The manual was surprisingly _____."
+                  }
+                },
+                {
+                  "word": "mendacious",
+                  "pronunciation": "/mɛnˈdeɪʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "not telling the truth",
+                  "usage": "The report was mendacious.",
+                  "practice": {
+                    "fillBlank": "The article was blatantly _____."
+                  }
+                },
+                {
+                  "word": "nefarious",
+                  "pronunciation": "/nɪˈfɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "wicked or criminal",
+                  "usage": "He had a nefarious plan.",
+                  "practice": {
+                    "fillBlank": "The villain’s plot was _____."
+                  }
+                },
+                {
+                  "word": "obstinate",
+                  "pronunciation": "/ˈɑbstɪnət/",
+                  "partOfSpeech": "adjective",
+                  "definition": "stubborn",
+                  "usage": "He remained obstinate.",
+                  "practice": {
+                    "fillBlank": "She is incredibly _____."
+                  }
+                },
+                {
+                  "word": "parsimonious",
+                  "pronunciation": "/ˌpɑːrsɪˈmoʊniəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "extremely frugal or stingy",
+                  "usage": "He is parsimonious with money.",
+                  "practice": {
+                    "fillBlank": "The old man was _____ to a fault."
+                  }
+                }
+              ]
+            },
+            "2026-01-18": {
+              "words": [
+                {
+                  "word": "quandary",
+                  "pronunciation": "/ˈkwɒndəri/",
+                  "partOfSpeech": "noun",
+                  "definition": "a state of uncertainty",
+                  "usage": "He’s in a quandary about which job to take.",
+                  "practice": {
+                    "fillBlank": "We were in a _____ over which route to take."
+                  }
+                },
+                {
+                  "word": "recalcitrant",
+                  "pronunciation": "/rɪˈkælsɪtrənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "resisting authority or control",
+                  "usage": "The recalcitrant student refused to cooperate.",
+                  "practice": {
+                    "fillBlank": "The team was _____ and uncooperative."
+                  }
+                },
+                {
+                  "word": "serendipity",
+                  "pronunciation": "/ˌsɛrənˈdɪpɪti/",
+                  "partOfSpeech": "noun",
+                  "definition": "finding something good without looking for it",
+                  "usage": "Meeting her was pure serendipity.",
+                  "practice": {
+                    "fillBlank": "It was _____ that they met by chance."
+                  }
+                },
+                {
+                  "word": "truculent",
+                  "pronunciation": "/ˈtrʌkjʊlənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "eager to fight; aggressively defiant",
+                  "usage": "He became truculent during the argument.",
+                  "practice": {
+                    "fillBlank": "The critic was harsh and _____."
+                  }
+                },
+                {
+                  "word": "ubiquitous",
+                  "pronunciation": "/juːˈbɪkwɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "found everywhere",
+                  "usage": "Smartphones are ubiquitous today.",
+                  "practice": {
+                    "fillBlank": "Coffee shops are _____ in big cities."
+                  }
+                }
+              ]
+            },
+            "2026-01-19": {
+              "words": [
+                {
+                  "word": "vociferous",
+                  "pronunciation": "/voʊˈsɪfərəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "expressing opinions loudly and forcefully",
+                  "usage": "He was vociferous in his criticism.",
+                  "practice": {
+                    "fillBlank": "The protesters were loud and _____."
+                  }
+                },
+                {
+                  "word": "winsome",
+                  "pronunciation": "/ˈwɪnsəm/",
+                  "partOfSpeech": "adjective",
+                  "definition": "attractive or appealing in a charming way",
+                  "usage": "She has a winsome smile.",
+                  "practice": {
+                    "fillBlank": "The puppy was small and _____."
+                  }
+                },
+                {
+                  "word": "xenophobic",
+                  "pronunciation": "/ˌzɛnəˈfoʊbɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "having an irrational dislike of foreigners",
+                  "usage": "His xenophobic views were controversial.",
+                  "practice": {
+                    "fillBlank": "Some people are unfairly _____."
+                  }
+                },
+                {
+                  "word": "yearning",
+                  "pronunciation": "/ˈjɜrnɪŋ/",
+                  "partOfSpeech": "noun",
+                  "definition": "a deep desire",
+                  "usage": "She felt a yearning for adventure.",
+                  "practice": {
+                    "fillBlank": "He had a strong _____ to travel."
+                  }
+                },
+                {
+                  "word": "zealot",
+                  "pronunciation": "/ˈzɛlət/",
+                  "partOfSpeech": "noun",
+                  "definition": "a person with extreme devotion to a cause",
+                  "usage": "The zealot campaigned tirelessly.",
+                  "practice": {
+                    "fillBlank": "He was a religious _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-20": {
+              "words": [
+                {
+                  "word": "aberration",
+                  "pronunciation": "/ˌæbəˈreɪʃən/",
+                  "partOfSpeech": "noun",
+                  "definition": "a deviation from the norm",
+                  "usage": "The result was an aberration from the usual.",
+                  "practice": {
+                    "fillBlank": "Her bad mood was an _____ in an otherwise happy day."
+                  }
+                },
+                {
+                  "word": "banal",
+                  "pronunciation": "/bəˈnɑːl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "so lacking in originality as to be obvious",
+                  "usage": "The plot was banal.",
+                  "practice": {
+                    "fillBlank": "The joke felt _____."
+                  }
+                },
+                {
+                  "word": "camaraderie",
+                  "pronunciation": "/ˌkæməˈrɑːdəri/",
+                  "partOfSpeech": "noun",
+                  "definition": "mutual trust and friendship",
+                  "usage": "The team developed strong camaraderie.",
+                  "practice": {
+                    "fillBlank": "There was a sense of _____ among the coworkers."
+                  }
+                },
+                {
+                  "word": "deleterious",
+                  "pronunciation": "/ˌdɛlɪˈtɪriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "harmful or damaging",
+                  "usage": "Smoking has deleterious effects.",
+                  "practice": {
+                    "fillBlank": "Too much sugar can be _____."
+                  }
+                },
+                {
+                  "word": "eclectic",
+                  "pronunciation": "/ɪˈklɛktɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "deriving ideas from a broad range of sources",
+                  "usage": "Her taste in music is eclectic.",
+                  "practice": {
+                    "fillBlank": "He has an _____ selection of books."
+                  }
+                }
+              ]
+            },
+            "2026-01-21": {
+              "words": [
+                {
+                  "word": "facetious",
+                  "pronunciation": "/fəˈsiːʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "treating serious issues with deliberately inappropriate humor",
+                  "usage": "He made a facetious comment about the budget cuts.",
+                  "practice": {
+                    "fillBlank": "Her _____ tone made the room uncomfortable."
+                  }
+                },
+                {
+                  "word": "gregarious",
+                  "pronunciation": "/ɡrɪˈɡɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "sociable and outgoing",
+                  "usage": "He is gregarious and loves parties.",
+                  "practice": {
+                    "fillBlank": "She is friendly and _____."
+                  }
+                },
+                {
+                  "word": "harangue",
+                  "pronunciation": "/həˈræŋ/",
+                  "partOfSpeech": "noun",
+                  "definition": "a lengthy and aggressive speech",
+                  "usage": "The politician delivered a long harangue.",
+                  "practice": {
+                    "fillBlank": "He went on a long _____ about punctuality."
+                  }
+                },
+                {
+                  "word": "immutable",
+                  "pronunciation": "/ɪˈmjuːtəbl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "unchanging over time",
+                  "usage": "Laws of physics are immutable.",
+                  "practice": {
+                    "fillBlank": "His opinion seemed _____."
+                  }
+                },
+                {
+                  "word": "juxtapose",
+                  "pronunciation": "/ˈdʒʌkstəpoʊz/",
+                  "partOfSpeech": "verb",
+                  "definition": "to place side by side for contrast",
+                  "usage": "The designer juxtaposed modern with vintage elements.",
+                  "practice": {
+                    "fillBlank": "The exhibit _____ ancient and contemporary art."
+                  }
+                }
+              ]
+            },
+            "2026-01-22": {
+              "words": [
+                {
+                  "word": "kaleidoscopic",
+                  "pronunciation": "/kəˌlaɪdəˈskɑːpɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "constantly changing, multi-colored or complex",
+                  "usage": "The city lights were kaleidoscopic at night.",
+                  "practice": {
+                    "fillBlank": "The festival had a _____ display of colors."
+                  }
+                },
+                {
+                  "word": "lachrymose",
+                  "pronunciation": "/ˈlækrɪmoʊs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "tearful or given to weeping",
+                  "usage": "The movie left the audience lachrymose.",
+                  "practice": {
+                    "fillBlank": "He became _____ at the sad story."
+                  }
+                },
+                {
+                  "word": "magnanimous",
+                  "pronunciation": "/mæɡˈnænɪməs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "generous or forgiving",
+                  "usage": "She was magnanimous in victory.",
+                  "practice": {
+                    "fillBlank": "He showed a _____ spirit toward his opponent."
+                  }
+                },
+                {
+                  "word": "neologism",
+                  "pronunciation": "/niˈɑːlədʒɪzəm/",
+                  "partOfSpeech": "noun",
+                  "definition": "a newly coined word or expression",
+                  "usage": "The article used a lot of neologisms.",
+                  "practice": {
+                    "fillBlank": "The author frequently invents _____ in his novels."
+                  }
+                },
+                {
+                  "word": "obfuscate",
+                  "pronunciation": "/ˈɑːbfəskeɪt/",
+                  "partOfSpeech": "verb",
+                  "definition": "to make something unclear or confusing",
+                  "usage": "The instructions seemed designed to obfuscate.",
+                  "practice": {
+                    "fillBlank": "The politician tried to _____ the facts."
+                  }
+                }
+              ]
+            },
+            "2026-01-23": {
+              "words": [
+                {
+                  "word": "palpable",
+                  "pronunciation": "/ˈpælpəbl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "able to be touched or felt; obvious",
+                  "usage": "There was a palpable tension in the room.",
+                  "practice": {
+                    "fillBlank": "The excitement in the stadium was _____."
+                  }
+                },
+                {
+                  "word": "quixotic",
+                  "pronunciation": "/kwɪkˈsɒtɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "extremely idealistic or impractical",
+                  "usage": "His quixotic plan was admired but unrealistic.",
+                  "practice": {
+                    "fillBlank": "The idea was romantic but _____."
+                  }
+                },
+                {
+                  "word": "recalcitrant",
+                  "pronunciation": "/rɪˈkælsɪtrənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "resisting authority or control",
+                  "usage": "The recalcitrant student ignored the teacher.",
+                  "practice": {
+                    "fillBlank": "The child was stubborn and _____."
+                  }
+                },
+                {
+                  "word": "sagacious",
+                  "pronunciation": "/səˈɡeɪʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "wise and discerning",
+                  "usage": "The sagacious leader guided the country wisely.",
+                  "practice": {
+                    "fillBlank": "The mentor gave _____ advice."
+                  }
+                },
+                {
+                  "word": "tacit",
+                  "pronunciation": "/ˈtæsɪt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "understood without being stated",
+                  "usage": "There was a tacit agreement between them.",
+                  "practice": {
+                    "fillBlank": "They had a _____ understanding."
+                  }
+                }
+              ]
+            },
+            "2026-01-24": {
+              "words": [
+                {
+                  "word": "ubiquitous",
+                  "pronunciation": "/juːˈbɪkwɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "present everywhere",
+                  "usage": "Smartphones are ubiquitous today.",
+                  "practice": {
+                    "fillBlank": "Coffee shops are _____ in the city."
+                  }
+                },
+                {
+                  "word": "vociferous",
+                  "pronunciation": "/voʊˈsɪfərəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "loud and forceful in expressing opinion",
+                  "usage": "The protesters were vociferous.",
+                  "practice": {
+                    "fillBlank": "He was a _____ critic of the plan."
+                  }
+                },
+                {
+                  "word": "winsome",
+                  "pronunciation": "/ˈwɪnsəm/",
+                  "partOfSpeech": "adjective",
+                  "definition": "charming and appealing",
+                  "usage": "She had a winsome personality.",
+                  "practice": {
+                    "fillBlank": "The puppy had a _____ expression."
+                  }
+                },
+                {
+                  "word": "xenial",
+                  "pronunciation": "/ˈziːniəl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "friendly to guests or strangers",
+                  "usage": "The host was very xenial.",
+                  "practice": {
+                    "fillBlank": "Their home was warm and _____."
+                  }
+                },
+                {
+                  "word": "yokel",
+                  "pronunciation": "/ˈjoʊkəl/",
+                  "partOfSpeech": "noun",
+                  "definition": "unsophisticated country person",
+                  "usage": "The story portrayed a naive yokel.",
+                  "practice": {
+                    "fillBlank": "He was treated like a _____ in the city."
+                  }
+                }
+              ]
+            },
+            "2026-01-25": {
+              "words": [
+                {
+                  "word": "zealot",
+                  "pronunciation": "/ˈzɛlət/",
+                  "partOfSpeech": "noun",
+                  "definition": "a person with extreme devotion to a cause",
+                  "usage": "He was a political zealot.",
+                  "practice": {
+                    "fillBlank": "The activist was a true _____."
+                  }
+                },
+                {
+                  "word": "ameliorate",
+                  "pronunciation": "/əˈmiːliəreɪt/",
+                  "partOfSpeech": "verb",
+                  "definition": "to make better",
+                  "usage": "The policies should ameliorate the situation.",
+                  "practice": {
+                    "fillBlank": "They hope to _____ the living conditions."
+                  }
+                },
+                {
+                  "word": "belligerent",
+                  "pronunciation": "/bəˈlɪdʒərənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "aggressive or hostile",
+                  "usage": "He became belligerent during the debate.",
+                  "practice": {
+                    "fillBlank": "The customer was _____."
+                  }
+                },
+                {
+                  "word": "cogent",
+                  "pronunciation": "/ˈkoʊdʒənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "convincing and logical",
+                  "usage": "She presented a cogent argument.",
+                  "practice": {
+                    "fillBlank": "His reasoning was clear and _____."
+                  }
+                },
+                {
+                  "word": "deleterious",
+                  "pronunciation": "/ˌdɛlɪˈtɪriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "harmful",
+                  "usage": "Smoking has deleterious effects.",
+                  "practice": {
+                    "fillBlank": "Excess sugar can be _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-26": {
+              "words": [
+                {
+                  "word": "effervescent",
+                  "pronunciation": "/ˌɛfərˈvɛsənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "lively or bubbly",
+                  "usage": "She has an effervescent personality.",
+                  "practice": {
+                    "fillBlank": "His mood was bright and _____."
+                  }
+                },
+                {
+                  "word": "fortuitous",
+                  "pronunciation": "/fɔːrˈtuːɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "happening by chance",
+                  "usage": "Their meeting was fortuitous.",
+                  "practice": {
+                    "fillBlank": "It was a _____ coincidence that they met."
+                  }
+                },
+                {
+                  "word": "gregarious",
+                  "pronunciation": "/ɡrɪˈɡɛriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "sociable",
+                  "usage": "He is gregarious and loves people.",
+                  "practice": {
+                    "fillBlank": "She is outgoing and _____."
+                  }
+                },
+                {
+                  "word": "hapless",
+                  "pronunciation": "/ˈhæplɪs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "unlucky",
+                  "usage": "The hapless traveler missed his flight.",
+                  "practice": {
+                    "fillBlank": "The _____ hero faced endless troubles."
+                  }
+                },
+                {
+                  "word": "iconoclast",
+                  "pronunciation": "/aɪˈkɒnəklæst/",
+                  "partOfSpeech": "noun",
+                  "definition": "someone who challenges beliefs",
+                  "usage": "She was an iconoclast in her field.",
+                  "practice": {
+                    "fillBlank": "He is known as an _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-27": {
+              "words": [
+                {
+                  "word": "juxtapose",
+                  "pronunciation": "/ˈdʒʌkstəpoʊz/",
+                  "partOfSpeech": "verb",
+                  "definition": "to place side by side for contrast",
+                  "usage": "The exhibit juxtaposes modern and old art.",
+                  "practice": {
+                    "fillBlank": "The designer _____ vintage and contemporary styles."
+                  }
+                },
+                {
+                  "word": "kinetic",
+                  "pronunciation": "/kɪˈnɛtɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "relating to motion",
+                  "usage": "The sculpture has kinetic energy.",
+                  "practice": {
+                    "fillBlank": "The dancers created a _____ performance."
+                  }
+                },
+                {
+                  "word": "lucid",
+                  "pronunciation": "/ˈluːsɪd/",
+                  "partOfSpeech": "adjective",
+                  "definition": "clear and easy to understand",
+                  "usage": "His lecture was lucid.",
+                  "practice": {
+                    "fillBlank": "The instructions were _____ and simple."
+                  }
+                },
+                {
+                  "word": "mellifluous",
+                  "pronunciation": "/məˈlɪfluəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "pleasant-sounding",
+                  "usage": "She had a mellifluous voice.",
+                  "practice": {
+                    "fillBlank": "The speaker's tone was smooth and _____."
+                  }
+                },
+                {
+                  "word": "nebulous",
+                  "pronunciation": "/ˈnebjʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "vague or ill-defined",
+                  "usage": "The plan was nebulous.",
+                  "practice": {
+                    "fillBlank": "The concept was too _____."
+                  }
+                }
+              ]
+            },
+            "2026-01-28": {
+              "words": [
+                {
+                  "word": "obfuscate",
+                  "pronunciation": "/ˈɑːbfəskeɪt/",
+                  "partOfSpeech": "verb",
+                  "definition": "to confuse or make unclear",
+                  "usage": "The instructions obfuscated the process.",
+                  "practice": {
+                    "fillBlank": "The explanation served only to _____."
+                  }
+                },
+                {
+                  "word": "panacea",
+                  "pronunciation": "/ˌpænəˈsiːə/",
+                  "partOfSpeech": "noun",
+                  "definition": "a solution for all problems",
+                  "usage": "There’s no panacea for stress.",
+                  "practice": {
+                    "fillBlank": "Unfortunately, technology is not a _____."
+                  }
+                },
+                {
+                  "word": "quandary",
+                  "pronunciation": "/ˈkwɒndəri/",
+                  "partOfSpeech": "noun",
+                  "definition": "a state of uncertainty",
+                  "usage": "He was in a quandary about his choice.",
+                  "practice": {
+                    "fillBlank": "We were in a _____ over the decision."
+                  }
+                },
+                {
+                  "word": "reverent",
+                  "pronunciation": "/ˈrevərənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "showing deep respect",
+                  "usage": "The students were reverent during the ceremony.",
+                  "practice": {
+                    "fillBlank": "The audience was _____ toward the speaker."
+                  }
+                },
+                {
+                  "word": "scrupulous",
+                  "pronunciation": "/ˈskruːpjʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "careful and precise",
+                  "usage": "She is scrupulous in her research.",
+                  "practice": {
+                    "fillBlank": "He was _____ about following the rules."
+                  }
+                }
+              ]
+            },
+            "2026-01-29": {
+              "words": [
+                {
+                  "word": "tenacious",
+                  "pronunciation": "/təˈneɪʃəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "persistent, determined",
+                  "usage": "She was tenacious in achieving her goals.",
+                  "practice": {
+                    "fillBlank": "Despite challenges, he remained _____."
+                  }
+                },
+                {
+                  "word": "ubiquitous",
+                  "pronunciation": "/juːˈbɪkwɪtəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "found everywhere",
+                  "usage": "Cell phones are ubiquitous today.",
+                  "practice": {
+                    "fillBlank": "Fast food chains are _____ in cities."
+                  }
+                },
+                {
+                  "word": "vigilant",
+                  "pronunciation": "/ˈvɪdʒɪlənt/",
+                  "partOfSpeech": "adjective",
+                  "definition": "watchful and alert",
+                  "usage": "The guards remained vigilant all night.",
+                  "practice": {
+                    "fillBlank": "Parents must stay _____ online."
+                  }
+                },
+                {
+                  "word": "winsome",
+                  "pronunciation": "/ˈwɪnsəm/",
+                  "partOfSpeech": "adjective",
+                  "definition": "charming and pleasing",
+                  "usage": "She had a winsome smile.",
+                  "practice": {
+                    "fillBlank": "The puppy was small and _____."
+                  }
+                },
+                {
+                  "word": "xenophile",
+                  "pronunciation": "/ˈzenəfaɪl/",
+                  "partOfSpeech": "noun",
+                  "definition": "someone attracted to foreign cultures",
+                  "usage": "He is a xenophile who loves travel.",
+                  "practice": {
+                    "fillBlank": "She is a true _____ who enjoys learning about cultures."
+                  }
+                }
+              ]
+            },
+            "2026-01-30": {
+              "words": [
+                {
+                  "word": "yearning",
+                  "pronunciation": "/ˈjɜrnɪŋ/",
+                  "partOfSpeech": "noun",
+                  "definition": "deep desire",
+                  "usage": "She had a yearning for adventure.",
+                  "practice": {
+                    "fillBlank": "He felt a strong _____ to travel."
+                  }
+                },
+                {
+                  "word": "zealous",
+                  "pronunciation": "/ˈzɛləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "passionate, enthusiastic",
+                  "usage": "He was zealous about his work.",
+                  "practice": {
+                    "fillBlank": "The fan was extremely _____."
+                  }
+                },
+                {
+                  "word": "aberration",
+                  "pronunciation": "/ˌæbəˈreɪʃən/",
+                  "partOfSpeech": "noun",
+                  "definition": "a deviation from what is normal",
+                  "usage": "Her poor performance was an aberration.",
+                  "practice": {
+                    "fillBlank": "The sudden rainstorm was an _____."
+                  }
+                },
+                {
+                  "word": "banal",
+                  "pronunciation": "/bəˈnɑːl/",
+                  "partOfSpeech": "adjective",
+                  "definition": "ordinary, unoriginal",
+                  "usage": "The plot was banal and predictable.",
+                  "practice": {
+                    "fillBlank": "The movie was dull and _____."
+                  }
+                },
+                {
+                  "word": "cajole",
+                  "pronunciation": "/kəˈdʒoʊl/",
+                  "partOfSpeech": "verb",
+                  "definition": "to persuade with flattery",
+                  "usage": "She cajoled him into helping.",
+                  "practice": {
+                    "fillBlank": "He was _____ into attending by compliments."
+                  }
+                }
+              ]
+            },
+            "2026-01-31": {
+              "words": [
+                {
+                  "word": "deleterious",
+                  "pronunciation": "/ˌdɛlɪˈtɪriəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "harmful or damaging",
+                  "usage": "Smoking has deleterious effects.",
+                  "practice": {
+                    "fillBlank": "Too much sun can be _____."
+                  }
+                },
+                {
+                  "word": "eclectic",
+                  "pronunciation": "/ɪˈklɛktɪk/",
+                  "partOfSpeech": "adjective",
+                  "definition": "deriving ideas from a broad range of sources",
+                  "usage": "Her taste in music is eclectic.",
+                  "practice": {
+                    "fillBlank": "He has an _____ collection of books."
+                  }
+                },
+                {
+                  "word": "fastidious",
+                  "pronunciation": "/fæˈstɪdiəs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "very attentive to detail",
+                  "usage": "She is fastidious about her work.",
+                  "practice": {
+                    "fillBlank": "He is _____ about organizing his desk."
+                  }
+                },
+                {
+                  "word": "garrulous",
+                  "pronunciation": "/ˈɡærʊləs/",
+                  "partOfSpeech": "adjective",
+                  "definition": "excessively talkative",
+                  "usage": "He became garrulous after a few drinks.",
+                  "practice": {
+                    "fillBlank": "The neighbor is friendly but _____."
+                  }
+                },
+                {
+                  "word": "hubris",
+                  "pronunciation": "/ˈhjuːbrɪs/",
+                  "partOfSpeech": "noun",
+                  "definition": "excessive pride or self-confidence",
+                  "usage": "His hubris led to his downfall.",
+                  "practice": {
+                    "fillBlank": "Overconfidence and _____ can be dangerous."
+                  }
+                }
+              ]
             }
-          ]
-        },
-        "2026-01-02": {
-          "words": [
-            {
-              "word": "arbitrary",
-              "pronunciation": "/ˈɑːrbɪtrɛri/",
-              "partOfSpeech": "adjective",
-              "definition": "based on random choice or personal whim",
-              "usage": "The deadline felt completely arbitrary.",
-              "practice": {
-                "fillBlank": "The rule seems totally _____."
-              }
-            },
-            {
-              "word": "candid",
-              "pronunciation": "/ˈkændɪd/",
-              "partOfSpeech": "adjective",
-              "definition": "truthful and straightforward; frank",
-              "usage": "She was candid about her experiences.",
-              "practice": {
-                "fillBlank": "He gave a _____ account of the events."
-              }
-            },
-            {
-              "word": "meticulous",
-              "pronunciation": "/məˈtɪkjʊləs/",
-              "partOfSpeech": "adjective",
-              "definition": "showing great attention to detail",
-              "usage": "He is meticulous when it comes to his notes.",
-              "practice": {
-                "fillBlank": "Her work is always _____ and precise."
-              }
-            },
-            {
-              "word": "resilient",
-              "pronunciation": "/rɪˈzɪliənt/",
-              "partOfSpeech": "adjective",
-              "definition": "able to withstand or recover quickly from difficult conditions",
-              "usage": "Children can be incredibly resilient.",
-              "practice": {
-                "fillBlank": "She remained _____ despite the setbacks."
-              }
-            },
-            {
-              "word": "conundrum",
-              "pronunciation": "/kəˈnʌndrəm/",
-              "partOfSpeech": "noun",
-              "definition": "a confusing or difficult problem",
-              "usage": "He faced a conundrum in choosing the right path.",
-              "practice": {
-                "fillBlank": "We encountered a tricky _____."
-              }
-            }
-          ]
-        },
-        "2026-01-03": {
-          "words": [
-            {
-              "word": "ephemeral",
-              "pronunciation": "/ɪˈfɛmərəl/",
-              "partOfSpeech": "adjective",
-              "definition": "lasting for a very short time",
-              "usage": "Fashions are ephemeral by nature.",
-              "practice": {
-                "fillBlank": "The beauty of the sunset was truly _____."
-              }
-            },
-            {
-              "word": "belligerent",
-              "pronunciation": "/bəˈlɪdʒərənt/",
-              "partOfSpeech": "adjective",
-              "definition": "hostile and aggressive",
-              "usage": "He became belligerent after the argument.",
-              "practice": {
-                "fillBlank": "The customer was rude and _____."
-              }
-            },
-            {
-              "word": "sagacious",
-              "pronunciation": "/səˈɡeɪʃəs/",
-              "partOfSpeech": "adjective",
-              "definition": "having keen mental discernment and good judgment",
-              "usage": "She offered sagacious advice on the investment.",
-              "practice": {
-                "fillBlank": "The mentor gave _____ guidance."
-              }
-            },
-            {
-              "word": "tenacious",
-              "pronunciation": "/təˈneɪʃəs/",
-              "partOfSpeech": "adjective",
-              "definition": "tending to keep a firm hold; persistent",
-              "usage": "His tenacious spirit helped him succeed.",
-              "practice": {
-                "fillBlank": "Despite obstacles, she remained _____."
-              }
-            },
-            {
-              "word": "ubiquitous",
-              "pronunciation": "/juːˈbɪkwɪtəs/",
-              "partOfSpeech": "adjective",
-              "definition": "present, appearing, or found everywhere",
-              "usage": "Smartphones have become ubiquitous in daily life.",
-              "practice": {
-                "fillBlank": "The brand's logo is _____."
-              }
-            }
-          ]
-        },
-        "2026-01-04": {
-          "words": [
-            {
-              "word": "obscure",
-              "pronunciation": "/əbˈskjʊr/",
-              "partOfSpeech": "adjective",
-              "definition": "not clearly understood or expressed",
-              "usage": "The poem's meaning was obscure to most readers.",
-              "practice": {
-                "fillBlank": "The instructions were _____ and confusing."
-              }
-            },
-            {
-              "word": "pristine",
-              "pronunciation": "/ˈprɪstiːn/",
-              "partOfSpeech": "adjective",
-              "definition": "in its original condition; unspoiled",
-              "usage": "The beach was pristine and untouched.",
-              "practice": {
-                "fillBlank": "The museum kept the artifacts in _____ condition."
-              }
-            },
-            {
-              "word": "altruistic",
-              "pronunciation": "/ˌæltruːˈɪstɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "showing selfless concern for the well-being of others",
-              "usage": "He is known for his altruistic acts.",
-              "practice": {
-                "fillBlank": "Her motives were purely _____."
-              }
-            },
-            {
-              "word": "lucid",
-              "pronunciation": "/ˈluːsɪd/",
-              "partOfSpeech": "adjective",
-              "definition": "clear and easy to understand",
-              "usage": "The explanation was lucid and precise.",
-              "practice": {
-                "fillBlank": "She gave a _____ account of the events."
-              }
-            },
-            {
-              "word": "vigilant",
-              "pronunciation": "/ˈvɪdʒɪlənt/",
-              "partOfSpeech": "adjective",
-              "definition": "keeping careful watch for danger or difficulties",
-              "usage": "The security team remained vigilant all night.",
-              "practice": {
-                "fillBlank": "Parents must be _____ about online content."
-              }
-            }
-          ]
-        },
-        "2026-01-05": {
-          "words": [
-            {
-              "word": "cogent",
-              "pronunciation": "/ˈkoʊdʒənt/",
-              "partOfSpeech": "adjective",
-              "definition": "clear, logical, and convincing",
-              "usage": "He made a cogent argument for change.",
-              "practice": {
-                "fillBlank": "Her presentation was clear and _____."
-              }
-            },
-            {
-              "word": "diligent",
-              "pronunciation": "/ˈdɪlɪdʒənt/",
-              "partOfSpeech": "adjective",
-              "definition": "showing careful and persistent effort",
-              "usage": "She is a diligent student.",
-              "practice": {
-                "fillBlank": "He worked _____ to complete the project."
-              }
-            },
-            {
-              "word": "equanimity",
-              "pronunciation": "/ˌiːkwəˈnɪməti/",
-              "partOfSpeech": "noun",
-              "definition": "mental calmness, composure, and evenness of temper",
-              "usage": "She faced the crisis with equanimity.",
-              "practice": {
-                "fillBlank": "He handled the criticism with remarkable _____."
-              }
-            },
-            {
-              "word": "fortuitous",
-              "pronunciation": "/fɔːrˈtuːɪtəs/",
-              "partOfSpeech": "adjective",
-              "definition": "happening by lucky chance",
-              "usage": "It was a fortuitous coincidence.",
-              "practice": {
-                "fillBlank": "Their meeting was purely _____."
-              }
-            },
-            {
-              "word": "gregarious",
-              "pronunciation": "/ɡrɪˈɡɛriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "fond of company; sociable",
-              "usage": "He is a gregarious and friendly person.",
-              "practice": {
-                "fillBlank": "She is outgoing and _____."
-              }
-            }
-          ]
-        },
-        "2026-01-06": {
-          "words": [
-            {
-              "word": "iconoclast",
-              "pronunciation": "/aɪˈkɒnəklæst/",
-              "partOfSpeech": "noun",
-              "definition": "a person who attacks cherished beliefs or institutions",
-              "usage": "He was an iconoclast in the art world.",
-              "practice": {
-                "fillBlank": "She is known as an ____ in her field."
-              }
-            },
-            {
-              "word": "jubilant",
-              "pronunciation": "/ˈdʒuːbɪlənt/",
-              "partOfSpeech": "adjective",
-              "definition": "showing great joy, satisfaction, or triumph",
-              "usage": "The team was jubilant after winning.",
-              "practice": {
-                "fillBlank": "The crowd was _____ after the victory."
-              }
-            },
-            {
-              "word": "kinetic",
-              "pronunciation": "/kɪˈnɛtɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "relating to or resulting from motion",
-              "usage": "The sculpture has a kinetic quality.",
-              "practice": {
-                "fillBlank": "The dancers created a _____ energy on stage."
-              }
-            },
-            {
-              "word": "lucid",
-              "pronunciation": "/ˈluːsɪd/",
-              "partOfSpeech": "adjective",
-              "definition": "expressed clearly; easy to understand",
-              "usage": "Her explanation was lucid and precise.",
-              "practice": {
-                "fillBlank": "His instructions were clear and _____."
-              }
-            },
-            {
-              "word": "mellifluous",
-              "pronunciation": "/məˈlɪfluəs/",
-              "partOfSpeech": "adjective",
-              "definition": "sweet or musical; pleasant to hear",
-              "usage": "She had a mellifluous voice.",
-              "practice": {
-                "fillBlank": "The speaker's voice was smooth and _____."
-              }
-            }
-          ]
-        }
-        ,
-        "2026-01-07": {
-          "words": [
-            {
-              "word": "nebulous",
-              "pronunciation": "/ˈnebjʊləs/",
-              "partOfSpeech": "adjective",
-              "definition": "vague or ill-defined",
-              "usage": "His plans were nebulous at best.",
-              "practice": {
-                "fillBlank": "The concept was too _____ to understand clearly."
-              }
-            },
-            {
-              "word": "obstinate",
-              "pronunciation": "/ˈɑbstɪnət/",
-              "partOfSpeech": "adjective",
-              "definition": "stubbornly refusing to change one’s opinion",
-              "usage": "She was obstinate about her decision.",
-              "practice": {
-                "fillBlank": "He remained _____ despite the advice."
-              }
-            },
-            {
-              "word": "paradox",
-              "pronunciation": "/ˈpærədɑːks/",
-              "partOfSpeech": "noun",
-              "definition": "a seemingly self-contradictory statement",
-              "usage": "Life is full of paradoxes.",
-              "practice": {
-                "fillBlank": "It’s a _____ that technology can connect yet isolate people."
-              }
-            },
-            {
-              "word": "quintessential",
-              "pronunciation": "/ˌkwɪntɪˈsenʃəl/",
-              "partOfSpeech": "adjective",
-              "definition": "representing the most perfect example of something",
-              "usage": "She is the quintessential professional.",
-              "practice": {
-                "fillBlank": "This painting is the _____ example of Impressionism."
-              }
-            },
-            {
-              "word": "reverent",
-              "pronunciation": "/ˈrevərənt/",
-              "partOfSpeech": "adjective",
-              "definition": "showing deep respect",
-              "usage": "The students were reverent during the ceremony.",
-              "practice": {
-                "fillBlank": "The audience was _____ during the speech."
-              }
-            }
-          ]
-        },
-        "2026-01-08": {
-          "words": [
-            {
-              "word": "scrupulous",
-              "pronunciation": "/ˈskruːpjʊləs/",
-              "partOfSpeech": "adjective",
-              "definition": "extremely attentive to details; principled",
-              "usage": "He is scrupulous in his research.",
-              "practice": {
-                "fillBlank": "She was _____ in checking her work."
-              }
-            },
-            {
-              "word": "tenuous",
-              "pronunciation": "/ˈtenjuəs/",
-              "partOfSpeech": "adjective",
-              "definition": "very weak or slight",
-              "usage": "His grasp of the subject was tenuous.",
-              "practice": {
-                "fillBlank": "The connection between the ideas was _____."
-              }
-            },
-            {
-              "word": "ubiquitous",
-              "pronunciation": "/juːˈbɪkwɪtəs/",
-              "partOfSpeech": "adjective",
-              "definition": "found everywhere",
-              "usage": "Smartphones are ubiquitous in modern society.",
-              "practice": {
-                "fillBlank": "The brand’s presence was _____."
-              }
-            },
-            {
-              "word": "vex",
-              "pronunciation": "/vɛks/",
-              "partOfSpeech": "verb",
-              "definition": "to annoy or frustrate",
-              "usage": "The constant delays vexed her.",
-              "practice": {
-                "fillBlank": "Traffic jams always _____ him."
-              }
-            },
-            {
-              "word": "wary",
-              "pronunciation": "/ˈwɛri/",
-              "partOfSpeech": "adjective",
-              "definition": "cautious about possible dangers",
-              "usage": "She was wary of making promises she couldn't keep.",
-              "practice": {
-                "fillBlank": "Be _____ when dealing with strangers."
-              }
-            }
-          ]
-        },
-        "2026-01-09": {
-          "words": [
-            {
-              "word": "xenophile",
-              "pronunciation": "/ˈzenəfaɪl/",
-              "partOfSpeech": "noun",
-              "definition": "someone attracted to foreign people or cultures",
-              "usage": "As a xenophile, he loved traveling.",
-              "practice": {
-                "fillBlank": "She is a true _____ who enjoys learning about other cultures."
-              }
-            },
-            {
-              "word": "yield",
-              "pronunciation": "/jiːld/",
-              "partOfSpeech": "verb",
-              "definition": "to produce or provide",
-              "usage": "The farm yields fresh vegetables every season.",
-              "practice": {
-                "fillBlank": "Hard work will eventually _____ results."
-              }
-            },
-            {
-              "word": "zealous",
-              "pronunciation": "/ˈzɛləs/",
-              "partOfSpeech": "adjective",
-              "definition": "full of energy or enthusiasm in pursuit of a cause",
-              "usage": "She is zealous about protecting the environment.",
-              "practice": {
-                "fillBlank": "He is a _____ supporter of the team."
-              }
-            },
-            {
-              "word": "ameliorate",
-              "pronunciation": "/əˈmiːliəreɪt/",
-              "partOfSpeech": "verb",
-              "definition": "to make something better",
-              "usage": "The new policies should ameliorate living conditions.",
-              "practice": {
-                "fillBlank": "They hoped to _____ the situation quickly."
-              }
-            },
-            {
-              "word": "bucolic",
-              "pronunciation": "/bjuˈkɑːlɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "relating to the pleasant aspects of the countryside",
-              "usage": "We stayed in a bucolic village.",
-              "practice": {
-                "fillBlank": "The scenery was peaceful and _____."
-              }
-            }
-          ]
-        },
-        "2026-01-10": {
-          "words": [
-            {
-              "word": "capricious",
-              "pronunciation": "/kəˈprɪʃəs/",
-              "partOfSpeech": "adjective",
-              "definition": "given to sudden changes of mood or behavior",
-              "usage": "Her decisions were often capricious.",
-              "practice": {
-                "fillBlank": "The weather here is extremely _____."
-              }
-            },
-            {
-              "word": "deleterious",
-              "pronunciation": "/ˌdɛlɪˈtɪriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "causing harm or damage",
-              "usage": "Smoking is deleterious to health.",
-              "practice": {
-                "fillBlank": "Excessive stress can be _____ to your health."
-              }
-            },
-            {
-              "word": "effervescent",
-              "pronunciation": "/ˌɛfərˈvɛsənt/",
-              "partOfSpeech": "adjective",
-              "definition": "bubbly, lively, or enthusiastic",
-              "usage": "She has an effervescent personality.",
-              "practice": {
-                "fillBlank": "His mood was bright and _____."
-              }
-            },
-            {
-              "word": "fastidious",
-              "pronunciation": "/fæˈstɪdiəs/",
-              "partOfSpeech": "adjective",
-              "definition": "very attentive to detail; hard to please",
-              "usage": "He is fastidious about cleanliness.",
-              "practice": {
-                "fillBlank": "She is so _____ about her work."
-              }
-            },
-            {
-              "word": "gregarious",
-              "pronunciation": "/ɡrɪˈɡɛriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "sociable, enjoys company",
-              "usage": "He is a gregarious host.",
-              "practice": {
-                "fillBlank": "She is outgoing and _____."
-              }
-            }
-          ]
-        },
-        "2026-01-11": {
-          "words": [
-            {
-              "word": "hubris",
-              "pronunciation": "/ˈhjuːbrɪs/",
-              "partOfSpeech": "noun",
-              "definition": "excessive pride or self-confidence",
-              "usage": "His hubris led to his downfall.",
-              "practice": {
-                "fillBlank": "Overconfidence often stems from _____."
-              }
-            },
-            {
-              "word": "idiosyncratic",
-              "pronunciation": "/ˌɪdiəˈsɪŋkrətɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "peculiar to an individual",
-              "usage": "His art style is highly idiosyncratic.",
-              "practice": {
-                "fillBlank": "She has an _____ way of organizing her desk."
-              }
-            },
-            {
-              "word": "juxtapose",
-              "pronunciation": "/ˈdʒʌkstəpoʊz/",
-              "partOfSpeech": "verb",
-              "definition": "to place side by side for contrast",
-              "usage": "The exhibit juxtaposes old and new art.",
-              "practice": {
-                "fillBlank": "The designer _____ modern and vintage styles."
-              }
-            },
-            {
-              "word": "keen",
-              "pronunciation": "/kiːn/",
-              "partOfSpeech": "adjective",
-              "definition": "having sharp mental ability; eager",
-              "usage": "She has a keen sense of observation.",
-              "practice": {
-                "fillBlank": "He is very _____ on details."
-              }
-            },
-            {
-              "word": "laconic",
-              "pronunciation": "/ləˈkɑːnɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "using very few words",
-              "usage": "His laconic reply surprised everyone.",
-              "practice": {
-                "fillBlank": "Her response was brief and _____."
-              }
-            }
-          ]
-        },
-        "2026-01-12": {
-          "words": [
-            {
-              "word": "malleable",
-              "pronunciation": "/ˈmæliəbəl/",
-              "partOfSpeech": "adjective",
-              "definition": "capable of being shaped or influenced",
-              "usage": "Young minds are malleable.",
-              "practice": {
-                "fillBlank": "Ideas are more _____ early in life."
-              }
-            },
-            {
-              "word": "nefarious",
-              "pronunciation": "/nɪˈfɛriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "wicked or criminal",
-              "usage": "The villain had a nefarious plan.",
-              "practice": {
-                "fillBlank": "The plot of the story was _____."
-              }
-            },
-            {
-              "word": "obsequious",
-              "pronunciation": "/əbˈsiːkwɪəs/",
-              "partOfSpeech": "adjective",
-              "definition": "overly submissive or eager to please",
-              "usage": "The assistant was obsequious to the manager.",
-              "practice": {
-                "fillBlank": "He acted in an _____ manner to gain favor."
-              }
-            },
-            {
-              "word": "panacea",
-              "pronunciation": "/ˌpænəˈsiːə/",
-              "partOfSpeech": "noun",
-              "definition": "a solution for all problems",
-              "usage": "There is no panacea for this issue.",
-              "practice": {
-                "fillBlank": "Unfortunately, technology is not a _____ for all challenges."
-              }
-            },
-            {
-              "word": "quixotic",
-              "pronunciation": "/kwɪkˈsɒtɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "extremely idealistic; impractical",
-              "usage": "His ideas were quixotic but inspiring.",
-              "practice": {
-                "fillBlank": "The plan was _____ but ambitious."
-              }
-            }
-          ]
-        }
-        ,
-        "2026-01-13": {
-          "words": [
-            {
-              "word": "ravenous",
-              "pronunciation": "/ˈrævənəs/",
-              "partOfSpeech": "adjective",
-              "definition": "extremely hungry",
-              "usage": "After the hike, we were ravenous.",
-              "practice": {
-                "fillBlank": "He came home from school completely _____."
-              }
-            },
-            {
-              "word": "sanguine",
-              "pronunciation": "/ˈsæŋɡwɪn/",
-              "partOfSpeech": "adjective",
-              "definition": "optimistic or positive, especially in a difficult situation",
-              "usage": "She is sanguine about the company’s future.",
-              "practice": {
-                "fillBlank": "Despite setbacks, he remained _____."
-              }
-            },
-            {
-              "word": "taciturn",
-              "pronunciation": "/ˈtæsɪtɜrn/",
-              "partOfSpeech": "adjective",
-              "definition": "reserved or uncommunicative",
-              "usage": "He was a taciturn man, speaking little.",
-              "practice": {
-                "fillBlank": "She is usually quiet and _____."
-              }
-            },
-            {
-              "word": "unequivocal",
-              "pronunciation": "/ˌʌnɪˈkwɪvəkəl/",
-              "partOfSpeech": "adjective",
-              "definition": "leaving no doubt; clear",
-              "usage": "His response was unequivocal.",
-              "practice": {
-                "fillBlank": "The instructions were clear and _____."
-              }
-            },
-            {
-              "word": "vicarious",
-              "pronunciation": "/vɪˈkɛriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "experienced through another",
-              "usage": "He gets vicarious pleasure from his students’ success.",
-              "practice": {
-                "fillBlank": "She lives _____ through her children’s achievements."
-              }
-            }
-          ]
-        },
-        "2026-01-14": {
-          "words": [
-            {
-              "word": "wily",
-              "pronunciation": "/ˈwaɪli/",
-              "partOfSpeech": "adjective",
-              "definition": "skilled at gaining advantage, clever",
-              "usage": "He is a wily negotiator.",
-              "practice": {
-                "fillBlank": "The fox was clever and _____."
-              }
-            },
-            {
-              "word": "xenial",
-              "pronunciation": "/ˈziːniəl/",
-              "partOfSpeech": "adjective",
-              "definition": "hospitable to strangers",
-              "usage": "The host was very xenial.",
-              "practice": {
-                "fillBlank": "Their home is always warm and _____."
-              }
-            },
-            {
-              "word": "yokel",
-              "pronunciation": "/ˈjoʊkəl/",
-              "partOfSpeech": "noun",
-              "definition": "a country bumpkin or unsophisticated person",
-              "usage": "The play portrayed a simple yokel.",
-              "practice": {
-                "fillBlank": "He was treated like a naive _____."
-              }
-            },
-            {
-              "word": "zenith",
-              "pronunciation": "/ˈziːnɪθ/",
-              "partOfSpeech": "noun",
-              "definition": "the highest point",
-              "usage": "She reached the zenith of her career.",
-              "practice": {
-                "fillBlank": "He was at the _____ of his power."
-              }
-            },
-            {
-              "word": "alacrity",
-              "pronunciation": "/əˈlækrɪti/",
-              "partOfSpeech": "noun",
-              "definition": "cheerful willingness",
-              "usage": "She accepted the invitation with alacrity.",
-              "practice": {
-                "fillBlank": "He responded to the task with _____."
-              }
-            }
-          ]
-        },
-        "2026-01-15": {
-          "words": [
-            {
-              "word": "belligerent",
-              "pronunciation": "/bəˈlɪdʒərənt/",
-              "partOfSpeech": "adjective",
-              "definition": "hostile and aggressive",
-              "usage": "The customer became belligerent.",
-              "practice": {
-                "fillBlank": "He was rude and _____."
-              }
-            },
-            {
-              "word": "cajole",
-              "pronunciation": "/kəˈdʒoʊl/",
-              "partOfSpeech": "verb",
-              "definition": "to persuade with flattery or promises",
-              "usage": "She tried to cajole him into attending.",
-              "practice": {
-                "fillBlank": "He was _____ into helping by compliments."
-              }
-            },
-            {
-              "word": "dormant",
-              "pronunciation": "/ˈdɔːrmənt/",
-              "partOfSpeech": "adjective",
-              "definition": "temporarily inactive",
-              "usage": "The volcano has been dormant for years.",
-              "practice": {
-                "fillBlank": "The company’s project remained _____."
-              }
-            },
-            {
-              "word": "emulate",
-              "pronunciation": "/ˈɛmjʊleɪt/",
-              "partOfSpeech": "verb",
-              "definition": "to match or imitate",
-              "usage": "She tried to emulate her mentor’s style.",
-              "practice": {
-                "fillBlank": "He hopes to _____ his hero’s success."
-              }
-            },
-            {
-              "word": "furtive",
-              "pronunciation": "/ˈfɜːrtɪv/",
-              "partOfSpeech": "adjective",
-              "definition": "secretive; attempting to avoid notice",
-              "usage": "He cast a furtive glance at the door.",
-              "practice": {
-                "fillBlank": "She gave a _____ look before leaving."
-              }
-            }
-          ]
-        },
-        "2026-01-16": {
-          "words": [
-            {
-              "word": "garrulous",
-              "pronunciation": "/ˈɡærʊləs/",
-              "partOfSpeech": "adjective",
-              "definition": "excessively talkative",
-              "usage": "He became garrulous after a few drinks.",
-              "practice": {
-                "fillBlank": "The neighbor is friendly but _____."
-              }
-            },
-            {
-              "word": "hapless",
-              "pronunciation": "/ˈhæplɪs/",
-              "partOfSpeech": "adjective",
-              "definition": "unlucky",
-              "usage": "The hapless travelers missed their flight.",
-              "practice": {
-                "fillBlank": "The _____ hero couldn’t catch a break."
-              }
-            },
-            {
-              "word": "iconic",
-              "pronunciation": "/aɪˈkɒnɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "widely recognized and well-established",
-              "usage": "The building is an iconic landmark.",
-              "practice": {
-                "fillBlank": "The movie has an _____ scene everyone remembers."
-              }
-            },
-            {
-              "word": "juxtaposition",
-              "pronunciation": "/ˌdʒʌkstəpəˈzɪʃən/",
-              "partOfSpeech": "noun",
-              "definition": "placing things side by side for contrast",
-              "usage": "The painting uses juxtaposition effectively.",
-              "practice": {
-                "fillBlank": "The design relies on _____ of old and new styles."
-              }
-            },
-            {
-              "word": "kinetic",
-              "pronunciation": "/kɪˈnɛtɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "relating to motion",
-              "usage": "The sculpture has a kinetic energy.",
-              "practice": {
-                "fillBlank": "The dancers created a _____ performance."
-              }
-            }
-          ]
-        },
-        "2026-01-17": {
-          "words": [
-            {
-              "word": "lucid",
-              "pronunciation": "/ˈluːsɪd/",
-              "partOfSpeech": "adjective",
-              "definition": "clear and easy to understand",
-              "usage": "His explanation was lucid.",
-              "practice": {
-                "fillBlank": "The manual was surprisingly _____."
-              }
-            },
-            {
-              "word": "mendacious",
-              "pronunciation": "/mɛnˈdeɪʃəs/",
-              "partOfSpeech": "adjective",
-              "definition": "not telling the truth",
-              "usage": "The report was mendacious.",
-              "practice": {
-                "fillBlank": "The article was blatantly _____."
-              }
-            },
-            {
-              "word": "nefarious",
-              "pronunciation": "/nɪˈfɛriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "wicked or criminal",
-              "usage": "He had a nefarious plan.",
-              "practice": {
-                "fillBlank": "The villain’s plot was _____."
-              }
-            },
-            {
-              "word": "obstinate",
-              "pronunciation": "/ˈɑbstɪnət/",
-              "partOfSpeech": "adjective",
-              "definition": "stubborn",
-              "usage": "He remained obstinate.",
-              "practice": {
-                "fillBlank": "She is incredibly _____."
-              }
-            },
-            {
-              "word": "parsimonious",
-              "pronunciation": "/ˌpɑːrsɪˈmoʊniəs/",
-              "partOfSpeech": "adjective",
-              "definition": "extremely frugal or stingy",
-              "usage": "He is parsimonious with money.",
-              "practice": {
-                "fillBlank": "The old man was _____ to a fault."
-              }
-            }
-          ]
-        },
-        "2026-01-18": {
-          "words": [
-            {
-              "word": "quandary",
-              "pronunciation": "/ˈkwɒndəri/",
-              "partOfSpeech": "noun",
-              "definition": "a state of uncertainty",
-              "usage": "He’s in a quandary about which job to take.",
-              "practice": {
-                "fillBlank": "We were in a _____ over which route to take."
-              }
-            },
-            {
-              "word": "recalcitrant",
-              "pronunciation": "/rɪˈkælsɪtrənt/",
-              "partOfSpeech": "adjective",
-              "definition": "resisting authority or control",
-              "usage": "The recalcitrant student refused to cooperate.",
-              "practice": {
-                "fillBlank": "The team was _____ and uncooperative."
-              }
-            },
-            {
-              "word": "serendipity",
-              "pronunciation": "/ˌsɛrənˈdɪpɪti/",
-              "partOfSpeech": "noun",
-              "definition": "finding something good without looking for it",
-              "usage": "Meeting her was pure serendipity.",
-              "practice": {
-                "fillBlank": "It was _____ that they met by chance."
-              }
-            },
-            {
-              "word": "truculent",
-              "pronunciation": "/ˈtrʌkjʊlənt/",
-              "partOfSpeech": "adjective",
-              "definition": "eager to fight; aggressively defiant",
-              "usage": "He became truculent during the argument.",
-              "practice": {
-                "fillBlank": "The critic was harsh and _____."
-              }
-            },
-            {
-              "word": "ubiquitous",
-              "pronunciation": "/juːˈbɪkwɪtəs/",
-              "partOfSpeech": "adjective",
-              "definition": "found everywhere",
-              "usage": "Smartphones are ubiquitous today.",
-              "practice": {
-                "fillBlank": "Coffee shops are _____ in big cities."
-              }
-            }
-          ]
-        },
-        "2026-01-19": {
-          "words": [
-            {
-              "word": "vociferous",
-              "pronunciation": "/voʊˈsɪfərəs/",
-              "partOfSpeech": "adjective",
-              "definition": "expressing opinions loudly and forcefully",
-              "usage": "He was vociferous in his criticism.",
-              "practice": {
-                "fillBlank": "The protesters were loud and _____."
-              }
-            },
-            {
-              "word": "winsome",
-              "pronunciation": "/ˈwɪnsəm/",
-              "partOfSpeech": "adjective",
-              "definition": "attractive or appealing in a charming way",
-              "usage": "She has a winsome smile.",
-              "practice": {
-                "fillBlank": "The puppy was small and _____."
-              }
-            },
-            {
-              "word": "xenophobic",
-              "pronunciation": "/ˌzɛnəˈfoʊbɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "having an irrational dislike of foreigners",
-              "usage": "His xenophobic views were controversial.",
-              "practice": {
-                "fillBlank": "Some people are unfairly _____."
-              }
-            },
-            {
-              "word": "yearning",
-              "pronunciation": "/ˈjɜrnɪŋ/",
-              "partOfSpeech": "noun",
-              "definition": "a deep desire",
-              "usage": "She felt a yearning for adventure.",
-              "practice": {
-                "fillBlank": "He had a strong _____ to travel."
-              }
-            },
-            {
-              "word": "zealot",
-              "pronunciation": "/ˈzɛlət/",
-              "partOfSpeech": "noun",
-              "definition": "a person with extreme devotion to a cause",
-              "usage": "The zealot campaigned tirelessly.",
-              "practice": {
-                "fillBlank": "He was a religious _____."
-              }
-            }
-          ]
-        },
-        "2026-01-20": {
-          "words": [
-            {
-              "word": "aberration",
-              "pronunciation": "/ˌæbəˈreɪʃən/",
-              "partOfSpeech": "noun",
-              "definition": "a deviation from the norm",
-              "usage": "The result was an aberration from the usual.",
-              "practice": {
-                "fillBlank": "Her bad mood was an _____ in an otherwise happy day."
-              }
-            },
-            {
-              "word": "banal",
-              "pronunciation": "/bəˈnɑːl/",
-              "partOfSpeech": "adjective",
-              "definition": "so lacking in originality as to be obvious",
-              "usage": "The plot was banal.",
-              "practice": {
-                "fillBlank": "The joke felt _____."
-              }
-            },
-            {
-              "word": "camaraderie",
-              "pronunciation": "/ˌkæməˈrɑːdəri/",
-              "partOfSpeech": "noun",
-              "definition": "mutual trust and friendship",
-              "usage": "The team developed strong camaraderie.",
-              "practice": {
-                "fillBlank": "There was a sense of _____ among the coworkers."
-              }
-            },
-            {
-              "word": "deleterious",
-              "pronunciation": "/ˌdɛlɪˈtɪriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "harmful or damaging",
-              "usage": "Smoking has deleterious effects.",
-              "practice": {
-                "fillBlank": "Too much sugar can be _____."
-              }
-            },
-            {
-              "word": "eclectic",
-              "pronunciation": "/ɪˈklɛktɪk/",
-              "partOfSpeech": "adjective",
-              "definition": "deriving ideas from a broad range of sources",
-              "usage": "Her taste in music is eclectic.",
-              "practice": {
-                "fillBlank": "He has an _____ selection of books."
-              }
-            }
-          ]
-        },
-        "2026-01-21": {
-          "words": [
-            {
-              "word": "facetious",
-              "pronunciation": "/fəˈsiːʃəs/",
-              "partOfSpeech": "adjective",
-              "definition": "treating serious issues with deliberately inappropriate humor",
-              "usage": "He made a facetious comment about the budget cuts.",
-              "practice": {
-                "fillBlank": "Her _____ tone made the room uncomfortable."
-              }
-            },
-            {
-              "word": "gregarious",
-              "pronunciation": "/ɡrɪˈɡɛriəs/",
-              "partOfSpeech": "adjective",
-              "definition": "sociable and outgoing",
-              "usage": "He is gregarious and loves parties.",
-              "practice": {
-                "fillBlank": "She is friendly and _____."
-              }
-            },
-            {
-              "word": "harangue",
-              "pronunciation": "/həˈræŋ/",
-              "partOfSpeech": "noun",
-              "definition": "a lengthy and aggressive speech",
-              "usage": "The politician delivered a long harangue.",
-              "practice": {
-                "fillBlank": "He went on a long _____ about punctuality."
-              }
-            },
-            {
-              "word": "immutable",
-              "pronunciation": "/ɪˈmjuːtəbl/",
-              "partOfSpeech": "adjective",
-              "definition": "unchanging over time",
-              "usage": "Laws of physics are immutable.",
-              "practice": {
-                "fillBlank": "His opinion seemed _____."
-              }
-            },
-            {
-              "word": "juxtapose",
-              "pronunciation": "/ˈdʒʌkstəpoʊz/",
-              "partOfSpeech": "verb",
-              "definition": "to place side by side for contrast",
-              "usage": "The designer juxtaposed modern with vintage elements.",
-              "practice": {
-                "fillBlank": "The exhibit _____ ancient and contemporary art."
-              }
-            }
-          ]
-        },
-        "2026-01-22": {
-          "words": [
-            {"word": "kaleidoscopic", "pronunciation": "/kəˌlaɪdəˈskɑːpɪk/", "partOfSpeech": "adjective", "definition": "constantly changing, multi-colored or complex", "usage": "The city lights were kaleidoscopic at night.", "practice": {"fillBlank": "The festival had a _____ display of colors."}},
-            {"word": "lachrymose", "pronunciation": "/ˈlækrɪmoʊs/", "partOfSpeech": "adjective", "definition": "tearful or given to weeping", "usage": "The movie left the audience lachrymose.", "practice": {"fillBlank": "He became _____ at the sad story."}},
-            {"word": "magnanimous", "pronunciation": "/mæɡˈnænɪməs/", "partOfSpeech": "adjective", "definition": "generous or forgiving", "usage": "She was magnanimous in victory.", "practice": {"fillBlank": "He showed a _____ spirit toward his opponent."}},
-            {"word": "neologism", "pronunciation": "/niˈɑːlədʒɪzəm/", "partOfSpeech": "noun", "definition": "a newly coined word or expression", "usage": "The article used a lot of neologisms.", "practice": {"fillBlank": "The author frequently invents _____ in his novels."}},
-            {"word": "obfuscate", "pronunciation": "/ˈɑːbfəskeɪt/", "partOfSpeech": "verb", "definition": "to make something unclear or confusing", "usage": "The instructions seemed designed to obfuscate.", "practice": {"fillBlank": "The politician tried to _____ the facts."}}
-          ]
-        },
-        "2026-01-23": {
-          "words": [
-            {"word": "palpable", "pronunciation": "/ˈpælpəbl/", "partOfSpeech": "adjective", "definition": "able to be touched or felt; obvious", "usage": "There was a palpable tension in the room.", "practice": {"fillBlank": "The excitement in the stadium was _____."}},
-            {"word": "quixotic", "pronunciation": "/kwɪkˈsɒtɪk/", "partOfSpeech": "adjective", "definition": "extremely idealistic or impractical", "usage": "His quixotic plan was admired but unrealistic.", "practice": {"fillBlank": "The idea was romantic but _____."}},
-            {"word": "recalcitrant", "pronunciation": "/rɪˈkælsɪtrənt/", "partOfSpeech": "adjective", "definition": "resisting authority or control", "usage": "The recalcitrant student ignored the teacher.", "practice": {"fillBlank": "The child was stubborn and _____."}},
-            {"word": "sagacious", "pronunciation": "/səˈɡeɪʃəs/", "partOfSpeech": "adjective", "definition": "wise and discerning", "usage": "The sagacious leader guided the country wisely.", "practice": {"fillBlank": "The mentor gave _____ advice."}},
-            {"word": "tacit", "pronunciation": "/ˈtæsɪt/", "partOfSpeech": "adjective", "definition": "understood without being stated", "usage": "There was a tacit agreement between them.", "practice": {"fillBlank": "They had a _____ understanding."}}
-          ]
-        },
-        "2026-01-24": {
-          "words": [
-            {"word": "ubiquitous", "pronunciation": "/juːˈbɪkwɪtəs/", "partOfSpeech": "adjective", "definition": "present everywhere", "usage": "Smartphones are ubiquitous today.", "practice": {"fillBlank": "Coffee shops are _____ in the city."}},
-            {"word": "vociferous", "pronunciation": "/voʊˈsɪfərəs/", "partOfSpeech": "adjective", "definition": "loud and forceful in expressing opinion", "usage": "The protesters were vociferous.", "practice": {"fillBlank": "He was a _____ critic of the plan."}},
-            {"word": "winsome", "pronunciation": "/ˈwɪnsəm/", "partOfSpeech": "adjective", "definition": "charming and appealing", "usage": "She had a winsome personality.", "practice": {"fillBlank": "The puppy had a _____ expression."}},
-            {"word": "xenial", "pronunciation": "/ˈziːniəl/", "partOfSpeech": "adjective", "definition": "friendly to guests or strangers", "usage": "The host was very xenial.", "practice": {"fillBlank": "Their home was warm and _____."}},
-            {"word": "yokel", "pronunciation": "/ˈjoʊkəl/", "partOfSpeech": "noun", "definition": "unsophisticated country person", "usage": "The story portrayed a naive yokel.", "practice": {"fillBlank": "He was treated like a _____ in the city."}}
-          ]
-        },
-        "2026-01-25": {
-          "words": [
-            {"word": "zealot", "pronunciation": "/ˈzɛlət/", "partOfSpeech": "noun", "definition": "a person with extreme devotion to a cause", "usage": "He was a political zealot.", "practice": {"fillBlank": "The activist was a true _____."}},
-            {"word": "ameliorate", "pronunciation": "/əˈmiːliəreɪt/", "partOfSpeech": "verb", "definition": "to make better", "usage": "The policies should ameliorate the situation.", "practice": {"fillBlank": "They hope to _____ the living conditions."}},
-            {"word": "belligerent", "pronunciation": "/bəˈlɪdʒərənt/", "partOfSpeech": "adjective", "definition": "aggressive or hostile", "usage": "He became belligerent during the debate.", "practice": {"fillBlank": "The customer was _____."}},
-            {"word": "cogent", "pronunciation": "/ˈkoʊdʒənt/", "partOfSpeech": "adjective", "definition": "convincing and logical", "usage": "She presented a cogent argument.", "practice": {"fillBlank": "His reasoning was clear and _____."}},
-            {"word": "deleterious", "pronunciation": "/ˌdɛlɪˈtɪriəs/", "partOfSpeech": "adjective", "definition": "harmful", "usage": "Smoking has deleterious effects.", "practice": {"fillBlank": "Excess sugar can be _____."}}
-          ]
-        },
-        "2026-01-26": {
-          "words": [
-            {"word": "effervescent", "pronunciation": "/ˌɛfərˈvɛsənt/", "partOfSpeech": "adjective", "definition": "lively or bubbly", "usage": "She has an effervescent personality.", "practice": {"fillBlank": "His mood was bright and _____."}},
-            {"word": "fortuitous", "pronunciation": "/fɔːrˈtuːɪtəs/", "partOfSpeech": "adjective", "definition": "happening by chance", "usage": "Their meeting was fortuitous.", "practice": {"fillBlank": "It was a _____ coincidence that they met."}},
-            {"word": "gregarious", "pronunciation": "/ɡrɪˈɡɛriəs/", "partOfSpeech": "adjective", "definition": "sociable", "usage": "He is gregarious and loves people.", "practice": {"fillBlank": "She is outgoing and _____."}},
-            {"word": "hapless", "pronunciation": "/ˈhæplɪs/", "partOfSpeech": "adjective", "definition": "unlucky", "usage": "The hapless traveler missed his flight.", "practice": {"fillBlank": "The _____ hero faced endless troubles."}},
-            {"word": "iconoclast", "pronunciation": "/aɪˈkɒnəklæst/", "partOfSpeech": "noun", "definition": "someone who challenges beliefs", "usage": "She was an iconoclast in her field.", "practice": {"fillBlank": "He is known as an _____."}}
-          ]
-        },
-        "2026-01-27": {
-          "words": [
-            {"word": "juxtapose", "pronunciation": "/ˈdʒʌkstəpoʊz/", "partOfSpeech": "verb", "definition": "to place side by side for contrast", "usage": "The exhibit juxtaposes modern and old art.", "practice": {"fillBlank": "The designer _____ vintage and contemporary styles."}},
-            {"word": "kinetic", "pronunciation": "/kɪˈnɛtɪk/", "partOfSpeech": "adjective", "definition": "relating to motion", "usage": "The sculpture has kinetic energy.", "practice": {"fillBlank": "The dancers created a _____ performance."}},
-            {"word": "lucid", "pronunciation": "/ˈluːsɪd/", "partOfSpeech": "adjective", "definition": "clear and easy to understand", "usage": "His lecture was lucid.", "practice": {"fillBlank": "The instructions were _____ and simple."}},
-            {"word": "mellifluous", "pronunciation": "/məˈlɪfluəs/", "partOfSpeech": "adjective", "definition": "pleasant-sounding", "usage": "She had a mellifluous voice.", "practice": {"fillBlank": "The speaker's tone was smooth and _____."}},
-            {"word": "nebulous", "pronunciation": "/ˈnebjʊləs/", "partOfSpeech": "adjective", "definition": "vague or ill-defined", "usage": "The plan was nebulous.", "practice": {"fillBlank": "The concept was too _____."}}
-          ]
-        },
-        "2026-01-28": {
-          "words": [
-            {"word": "obfuscate", "pronunciation": "/ˈɑːbfəskeɪt/", "partOfSpeech": "verb", "definition": "to confuse or make unclear", "usage": "The instructions obfuscated the process.", "practice": {"fillBlank": "The explanation served only to _____."}},
-            {"word": "panacea", "pronunciation": "/ˌpænəˈsiːə/", "partOfSpeech": "noun", "definition": "a solution for all problems", "usage": "There’s no panacea for stress.", "practice": {"fillBlank": "Unfortunately, technology is not a _____."}},
-            {"word": "quandary", "pronunciation": "/ˈkwɒndəri/", "partOfSpeech": "noun", "definition": "a state of uncertainty", "usage": "He was in a quandary about his choice.", "practice": {"fillBlank": "We were in a _____ over the decision."}},
-            {"word": "reverent", "pronunciation": "/ˈrevərənt/", "partOfSpeech": "adjective", "definition": "showing deep respect", "usage": "The students were reverent during the ceremony.", "practice": {"fillBlank": "The audience was _____ toward the speaker."}},
-            {"word": "scrupulous", "pronunciation": "/ˈskruːpjʊləs/", "partOfSpeech": "adjective", "definition": "careful and precise", "usage": "She is scrupulous in her research.", "practice": {"fillBlank": "He was _____ about following the rules."}}
-          ]
-        },
-        "2026-01-29": {
-          "words": [
-            {"word": "tenacious", "pronunciation": "/təˈneɪʃəs/", "partOfSpeech": "adjective", "definition": "persistent, determined", "usage": "She was tenacious in achieving her goals.", "practice": {"fillBlank": "Despite challenges, he remained _____."}},
-            {"word": "ubiquitous", "pronunciation": "/juːˈbɪkwɪtəs/", "partOfSpeech": "adjective", "definition": "found everywhere", "usage": "Cell phones are ubiquitous today.", "practice": {"fillBlank": "Fast food chains are _____ in cities."}},
-            {"word": "vigilant", "pronunciation": "/ˈvɪdʒɪlənt/", "partOfSpeech": "adjective", "definition": "watchful and alert", "usage": "The guards remained vigilant all night.", "practice": {"fillBlank": "Parents must stay _____ online."}},
-            {"word": "winsome", "pronunciation": "/ˈwɪnsəm/", "partOfSpeech": "adjective", "definition": "charming and pleasing", "usage": "She had a winsome smile.", "practice": {"fillBlank": "The puppy was small and _____."}},
-            {"word": "xenophile", "pronunciation": "/ˈzenəfaɪl/", "partOfSpeech": "noun", "definition": "someone attracted to foreign cultures", "usage": "He is a xenophile who loves travel.", "practice": {"fillBlank": "She is a true _____ who enjoys learning about cultures."}}
-          ]
-        },
-        "2026-01-30": {
-          "words": [
-            {"word": "yearning", "pronunciation": "/ˈjɜrnɪŋ/", "partOfSpeech": "noun", "definition": "deep desire", "usage": "She had a yearning for adventure.", "practice": {"fillBlank": "He felt a strong _____ to travel."}},
-            {"word": "zealous", "pronunciation": "/ˈzɛləs/", "partOfSpeech": "adjective", "definition": "passionate, enthusiastic", "usage": "He was zealous about his work.", "practice": {"fillBlank": "The fan was extremely _____."}},
-            {"word": "aberration", "pronunciation": "/ˌæbəˈreɪʃən/", "partOfSpeech": "noun", "definition": "a deviation from what is normal", "usage": "Her poor performance was an aberration.", "practice": {"fillBlank": "The sudden rainstorm was an _____."}},
-            {"word": "banal", "pronunciation": "/bəˈnɑːl/", "partOfSpeech": "adjective", "definition": "ordinary, unoriginal", "usage": "The plot was banal and predictable.", "practice": {"fillBlank": "The movie was dull and _____."}},
-            {"word": "cajole", "pronunciation": "/kəˈdʒoʊl/", "partOfSpeech": "verb", "definition": "to persuade with flattery", "usage": "She cajoled him into helping.", "practice": {"fillBlank": "He was _____ into attending by compliments."}}
-          ]
-        },
-        "2026-01-31": {
-          "words": [
-            {"word": "deleterious", "pronunciation": "/ˌdɛlɪˈtɪriəs/", "partOfSpeech": "adjective", "definition": "harmful or damaging", "usage": "Smoking has deleterious effects.", "practice": {"fillBlank": "Too much sun can be _____."}},
-            {"word": "eclectic", "pronunciation": "/ɪˈklɛktɪk/", "partOfSpeech": "adjective", "definition": "deriving ideas from a broad range of sources", "usage": "Her taste in music is eclectic.", "practice": {"fillBlank": "He has an _____ collection of books."}},
-            {"word": "fastidious", "pronunciation": "/fæˈstɪdiəs/", "partOfSpeech": "adjective", "definition": "very attentive to detail", "usage": "She is fastidious about her work.", "practice": {"fillBlank": "He is _____ about organizing his desk."}},
-            {"word": "garrulous", "pronunciation": "/ˈɡærʊləs/", "partOfSpeech": "adjective", "definition": "excessively talkative", "usage": "He became garrulous after a few drinks.", "practice": {"fillBlank": "The neighbor is friendly but _____."}},
-            {"word": "hubris", "pronunciation": "/ˈhjuːbrɪs/", "partOfSpeech": "noun", "definition": "excessive pride or self-confidence", "usage": "His hubris led to his downfall.", "practice": {"fillBlank": "Overconfidence and _____ can be dangerous."}}
-          ]
+          }
         }
