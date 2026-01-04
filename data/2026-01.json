@@ -7,7 +7,7 @@
           "word": "agnostic",
           "pronunciation": "/æɡˈnɑːstɪk/",
           "partOfSpeech": "adjective",
-          "definition": "not strongly committed to a belief or position",
+          "definition": "not strongly committed to a belief or stance",
           "usage": "I'm pretty agnostic about which approach we take.",
           "practice": {
             "fillBlank": "I'm _____ about whether we should redesign it."
@@ -17,10 +17,10 @@
           "word": "nuanced",
           "pronunciation": "/ˈnuːɑːnst/",
           "partOfSpeech": "adjective",
-          "definition": "having subtle complexity; not overly simple",
-          "usage": "It's a nuanced discussion, not a yes-or-no answer.",
+          "definition": "having subtle complexity",
+          "usage": "It's a nuanced discussion.",
           "practice": {
-            "fillBlank": "The issue is more _____ than people think."
+            "fillBlank": "The issue is more _____ than it seems."
           }
         }
       ]
@@ -31,10 +31,10 @@
           "word": "arbitrary",
           "pronunciation": "/ˈɑːrbɪtreri/",
           "partOfSpeech": "adjective",
-          "definition": "based on random choice rather than reason",
-          "usage": "The deadline felt pretty arbitrary.",
+          "definition": "based on random choice",
+          "usage": "The deadline felt arbitrary.",
           "practice": {
-            "fillBlank": "That rule seems kind of _____."
+            "fillBlank": "That rule seems pretty _____."
           }
         }
       ]
