@@ -5,7 +5,7 @@
   <title>vocadal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- Cozy serif font (used ONLY for the word itself) -->
+  <!-- Cozy serif font (used ONLY for the word itself + title) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&display=swap" rel="stylesheet">
@@ -48,33 +48,29 @@
       margin-bottom: 18px;
     }
 
-    h1 {
-      margin: 0;
-      font-size: 2rem;
-      font-weight: 600;
-    }
-
     .app-title {
       font-family: "Cormorant Garamond", serif;
       font-size: 2.6rem;
       font-weight: 500;
       letter-spacing: 1px;
-      margin-bottom: 10px;
-      color: #3f3a33;
+      margin-bottom: 4px;
     }
-    
+
     .title-sub {
       font-family: "Cormorant Garamond", serif;
       font-size: 1rem;
       letter-spacing: 0.6px;
-      color: #6a6258;
-      margin-bottom: 18px;
+      color: var(--muted);
     }
 
-    .pronunciation {
-      font-size: 0.9rem;
-      color: var(--muted);
-      margin-top: 2px;
+    .tabs {
+      display: flex;
+      gap: 6px;
+      margin-top: 10px;
+    }
+
+    .tabs button {
+      font-size: 0.85rem;
     }
 
     .date-controls {
@@ -101,7 +97,6 @@
       border-radius: 10px;
       border: 1px solid var(--border);
       background: var(--card);
-      color: var(--text);
     }
 
     .card {
@@ -116,13 +111,26 @@
       margin-bottom: 28px;
     }
 
-    /* 🎯 Word styling ONLY */
+    .word-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
     .word h2 {
       margin: 0;
       font-size: 1.7rem;
-      font-weight: 600;
-      letter-spacing: 0.4px;
       font-family: "Cormorant Garamond", serif;
+    }
+
+    .bookmark {
+      cursor: pointer;
+      font-size: 1.2rem;
+      color: var(--muted);
+    }
+
+    .bookmark.saved {
+      color: #8b6f47;
     }
 
     .meta {
@@ -147,7 +155,7 @@
       margin-bottom: 18px;
     }
 
-    .question input {
+    select {
       width: 100%;
       padding: 9px 10px;
       margin-top: 6px;
@@ -160,21 +168,17 @@
       margin-top: 10px;
       background: var(--accent);
       border: none;
-      color: #2f2a24;
       font-weight: 600;
     }
 
-    .feedback {
-      margin-top: 6px;
-      font-size: 0.9rem;
-    }
-
     .correct {
-      color: var(--correct);
+      border-color: var(--correct);
+      background: #e1ece3;
     }
 
     .wrong {
-      color: var(--wrong);
+      border-color: var(--wrong);
+      background: #f0dcdc;
     }
   </style>
 </head>
@@ -183,8 +187,12 @@
 <div class="container">
   <header>
     <div>
-      <h1 class="app-title">vocadal</h1>
-      <div class="title-sub">noun • /ˈvoʊ.kə.dæl/</div>
+      <div class="app-title">vocadal</div>
+      <div class="title-sub">noun · ˈvoʊkədæl</div>
+      <div class="tabs">
+        <button id="tab-today">Today</button>
+        <button id="tab-saved">Saved</button>
+      </div>
     </div>
 
     <div class="date-controls">
@@ -200,21 +208,27 @@
 <script>
   const content = document.getElementById("content");
   const picker = document.getElementById("picker");
-
   let currentDate = new Date();
   currentDate.setHours(0,0,0,0);
 
-  function format(date) {
-    return date.toISOString().split("T")[0];
-  }
+  const format = d => d.toISOString().split("T")[0];
+  const shuffle = a => [...a].sort(() => Math.random() - 0.5);
 
-  function shuffle(arr) {
-    return [...arr].sort(() => Math.random() - 0.5);
-  }
+  const getSaved = () => JSON.parse(localStorage.getItem("vocadalSaved") || "{}");
+  const saveWord = w => {
+    const s = getSaved();
+    s[w.word] = w;
+    localStorage.setItem("vocadalSaved", JSON.stringify(s));
+  };
+  const removeWord = word => {
+    const s = getSaved();
+    delete s[word];
+    localStorage.setItem("vocadalSaved", JSON.stringify(s));
+  };
 
   function loadDay(date) {
     const year = date.getFullYear();
-    const month = String(date.getMonth() + 1).padStart(2, "0");
+    const month = String(date.getMonth()+1).padStart(2,"0");
     const key = format(date);
     picker.value = key;
 
@@ -227,64 +241,99 @@
           return;
         }
 
+        const saved = getSaved();
+        const options = day.words.map(w => w.word);
+
         content.innerHTML = day.words.map(w => `
           <div class="word">
-            <h2>${w.word}</h2>
+            <div class="word-header">
+              <h2>${w.word}</h2>
+              <span class="bookmark ${saved[w.word] ? "saved" : ""}" data-word='${JSON.stringify(w)}'>
+                ${saved[w.word] ? "★" : "☆"}
+              </span>
+            </div>
             <div class="meta">${w.partOfSpeech} • ${w.pronunciation}</div>
             <p>${w.definition}</p>
             <div class="example">“${w.usage}”</div>
           </div>
         `).join("");
 
-        const questions = shuffle(day.words).map((w, i) => `
-          <div class="question">
-            <div class="question-text">${i+1}. ${w.practice.fillBlank}</div>
-            <input data-answer="${w.word.toLowerCase()}" />
-            <div class="feedback"></div>
-          </div>
-        `).join("");
-
         content.innerHTML += `
           <div class="practice-box">
             <h3>Practice</h3>
-            ${questions}
+            ${shuffle(day.words).map(w => `
+              <div class="question">
+                <div>${w.practice.fillBlank}</div>
+                <select data-answer="${w.word}">
+                  <option value="">Select a word</option>
+                  ${shuffle(options).map(o => `<option>${o}</option>`).join("")}
+                </select>
+              </div>
+            `).join("")}
             <button class="submit-btn" id="submit">Submit Practice</button>
           </div>
         `;
 
-        document.getElementById("submit").onclick = () => {
-          document.querySelectorAll(".question").forEach(q => {
-            const input = q.querySelector("input");
-            const feedback = q.querySelector(".feedback");
-            const answer = input.dataset.answer;
-
-            if (input.value.trim().toLowerCase() === answer) {
-              feedback.textContent = "Correct ✓";
-              feedback.className = "feedback correct";
+        document.querySelectorAll(".bookmark").forEach(b => {
+          b.onclick = () => {
+            const w = JSON.parse(b.dataset.word);
+            if (getSaved()[w.word]) {
+              removeWord(w.word);
+              b.textContent = "☆";
+              b.classList.remove("saved");
             } else {
-              feedback.textContent = `Incorrect — ${answer}`;
-              feedback.className = "feedback wrong";
+              saveWord(w);
+              b.textContent = "★";
+              b.classList.add("saved");
             }
+          };
+        });
+
+        document.getElementById("submit").onclick = () => {
+          document.querySelectorAll("select").forEach(s => {
+            if (!s.value) return;
+            s.classList.toggle("correct", s.value === s.dataset.answer);
+            s.classList.toggle("wrong", s.value !== s.dataset.answer);
           });
         };
       });
   }
 
+  function loadSaved() {
+    const saved = Object.values(getSaved());
+    if (!saved.length) {
+      content.innerHTML = "<p>No saved words yet.</p>";
+      return;
+    }
+    content.innerHTML = saved.map(w => `
+      <div class="word">
+        <div class="word-header">
+          <h2>${w.word}</h2>
+          <span class="bookmark saved">★</span>
+        </div>
+        <div class="meta">${w.partOfSpeech} • ${w.pronunciation}</div>
+        <p>${w.definition}</p>
+        <div class="example">“${w.usage}”</div>
+      </div>
+    `).join("");
+  }
+
   document.getElementById("prev").onclick = () => {
-    currentDate.setDate(currentDate.getDate() - 1);
+    currentDate.setDate(currentDate.getDate()-1);
     loadDay(currentDate);
   };
-
   document.getElementById("next").onclick = () => {
-    currentDate.setDate(currentDate.getDate() + 1);
+    currentDate.setDate(currentDate.getDate()+1);
     loadDay(currentDate);
   };
-
   picker.onchange = e => {
     currentDate = new Date(e.target.value);
     currentDate.setHours(0,0,0,0);
     loadDay(currentDate);
   };
+
+  document.getElementById("tab-today").onclick = () => loadDay(currentDate);
+  document.getElementById("tab-saved").onclick = loadSaved;
 
   loadDay(currentDate);
 </script>
